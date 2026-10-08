@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG BÁO",
+    "type": "string"
+  },
+  "title": {
+    "value": "",
+    "type": "string"
+  },
+  "code": {
+    "value": "2125/TB-ĐLTKV",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "TẬP ĐOÀN CÔNG NGHIỆP THAN-KHOÁNG SẢN VIỆT NAM TỔNG CÔNG TY ĐIỆN LỰC- TKV",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như kính gửi; HĐQT, BKS (e-copy, b/c); Các PTGĐ, KTTr (e-copy); Các Ban ĐLTKV (e-copy)",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Uỷ ban Chứng khoán Nhà nước; số 1.772; Sở Giao dịch Chứng khoán Hà Nội; Trung tâm Lưu ký Chứng khoán Việt Nam.",
+    "type": "string"
+  }
+}

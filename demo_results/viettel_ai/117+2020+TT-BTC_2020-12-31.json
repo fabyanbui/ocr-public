@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Thông tư",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định phương pháp tính khoản thu trái pháp luật. số lợi bất hợp pháp có được do thực hiện hành vi vi phạm pháp luậ về chứng khoản và thị trường chứng khoản",
+    "type": "string"
+  },
+  "code": {
+    "value": "117/2020/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Bộ Tài chính",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chính phủ; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Thủ tướng các Phó Thủ tướng Chính phủ; Các Bộ cơ quan ngang Bộ cơ quan thuộc Chính phủ; Cơ quan TW của các đoàn thể; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; HĐND UBND các tỉnh thành phố trực thuộc Trung ương; Kiểm toán nhà nước; Công báo; Cổng Thông tin điện tử Chính phủ; Cục kiểm tra văn bản (Bộ Tư pháp); Các đơn vị thuộc Bộ Tài chính; Cổng Thông tin điện tử Bộ Tài chính; Cổng Thông tin điện tử Ủy ban Chứng khoản Nhà nước.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Huỳnh Quang Hải",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội N",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

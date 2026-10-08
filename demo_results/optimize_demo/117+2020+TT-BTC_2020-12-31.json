@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG TƯ",
+    "type": "string"
+  },
+  "title": {
+    "value": "",
+    "type": "string"
+  },
+  "code": {
+    "value": "117/2020/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng trung ương và các bơn củn Đảng: Văn phòng tổng bí thư; Văn phòng chính phủ; Văn phòng Quốc hội Văn phòng chú lịch nước Thủ tướng, các phó thủ tướng chính phủ; Các Bộ. cơ quan ngưng bộ, cơ quan Ihuộc Chính phủ; Cơ quan TW của các đoàn thể; Viện Kiếm sái nhân dân tối cao; Tòa án nhân dân tối cao; HĐND, UBND các tỉnh, thành phố trực thuộc trung ương: Kiểm toán nhà nước Cỏng bao Cổng Thông tin điện lử Chính phú; Cục kiếm tra văn bàn (Bỏ Tư pháp); Các đơn vị thuộc bỏ tài chính Cổng Thông tin diện tử bộ tài chính: Cổng Thỏng lin điện tử Uy han Chứng khoán Nhà nước",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Huỳnh Quang Hải",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỜNG THỨ TRƯỜNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

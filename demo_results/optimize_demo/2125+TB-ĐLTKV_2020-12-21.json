@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG BÁO",
+    "type": "string"
+  },
+  "title": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI Về việc thay đổi thời gian họp Đại hội đồng cổ đông bất thường - v sân - năm 2020 Tổng công ty Điện lực - TKV",
+    "type": "string"
+  },
+  "code": {
+    "value": "2125/TB-ĐLTKV",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "11/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "TẬP ĐOÀN CÔNG NGHIỆP THAN-KHOÁNG SẢN VIỆT NAM TỔNG CÔNG TY ĐIỆN LỰC-TKV",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như kính gửi; HĐQT, BKS (e-copy, b/c); Các PTGĐ, KTTr (e-copy); Các Ban ĐLTKV (e-copy)",
+    "type": "string"
+  },
+  "signer": {
+    "value": "TY ĐIỆN LỰC TKY",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Uỷ ban chứng khoán nhà nước; số:....3.1.772; Sở Giao dịch Chứng khoán Hà Nội; Trung tâm Lưu ký Chứng khoán Việt Nam.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "ÔNG GIÁM ĐỐC TÔNG CÔNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

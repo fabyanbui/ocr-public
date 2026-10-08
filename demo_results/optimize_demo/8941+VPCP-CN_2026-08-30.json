@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v trình cơ chế, chính sách áp\ndụng chung cho các tuyển cao\ntốc giai đoạn 2026 - 2030",
+    "type": "string"
+  },
+  "code": {
+    "value": "8941/VPCP-CN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN PHÒNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng, các PTTgCP (để b/c); Các Bộ: TC, TP, NEMT VPCP: BTCN, PCN Phạm Mạnh Cường, Các Vụ: KTTH, TH, PL, CTTCP",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Mạnh Cường",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Bộ Xây dựng",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG, CHỦ NHIỆM PHÓ CHỦ NHIỆM",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

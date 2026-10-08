@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công điện",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc đẩy nhanh tiến độ thực hiện các dự án đầu tư xây dựng công trình đường bộ cao tốc tại khu vực phía Bắc",
+    "type": "string"
+  },
+  "code": {
+    "value": "60/CĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "29/8/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Thủ tướng Chính Phủ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng các PTTgCP (để b/c); VTV1-Đài Truyền hình VN; VPCP BTCN các PCN; các Vụ Cục KTTH NN; QHĐP TH CTTCP.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Gia Túc",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "1_HỎA TỐC",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

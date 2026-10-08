@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Điều lệ tổ chức và hoạt động của Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "code": {
+    "value": "2399/QĐ-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "21/11/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; TTCP, các phó ttcp; Các Bộ: KHĐT, NHNN, Tư Pháp, LĐTBXH; UBND: TP HN, TP HCM; Các đơn vị thuộc bộ; Website Bộ Tài chính",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Văn Hiếu",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

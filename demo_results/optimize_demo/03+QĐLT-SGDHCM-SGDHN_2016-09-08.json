@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH LIÊN TỊCH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Quy tắc xây dựng và quản lý Chỉ số VNX Allshare",
+    "type": "string"
+  },
+  "code": {
+    "value": "03/QĐLT-SGDHCM-SGDHN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM ? SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như điều 3; UBCKNN (để b/c); Trung tâm lưu ký chứng khoán việt nam",
+    "type": "string"
+  },
+  "signer": {
+    "value": "ĐỒNG QUẢN TRỊ",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "SỞ GDCK TP.HCM TM. HỘI",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v: Công bố thông tin\nNghị quyết Đại hội đồng cổ đông",
+    "type": "string"
+  },
+  "code": {
+    "value": "270/PVIRe-HĐ",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "tổng công ty cổ phần tái bảo hiểm PVI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên",
+    "type": "string"
+  },
+  "signer": {
+    "value": "CỔ PHẦN TÁI BẢO HIỆM PYL; Phan Trịnh Quốc Kiên",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC 30829; SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI (HNX)",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "NGƯỜI ỦY QUYỀN CBTT (M; 86 TỔNG CÔNG TỲ; GIÁM ĐỐC KHỐI HOẠT ĐỘNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "07/12/2020",
+    "type": "string"
+  }
+}

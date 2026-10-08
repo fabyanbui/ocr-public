@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v tập trung khắc phục hậu quả bão số 4 và mưa lũ",
+    "type": "string"
+  },
+  "code": {
+    "value": "8916/VPCP-NN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/8/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Văn phòng Chính phủ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng các Phó Thủ tướng CP; Văn phòng Trung ương Đảng; VPCP BTCN các PCN Trợ lý TTg; CTTCP các Vụ CN NC KTTH KGVX.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG, CHỦ NHIỆM PHÓ CHỦ NHIỆM",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Mạnh Cường",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "- Các Bộ: Nông nghiệp và Môi trường; Xây dựng, Giáo dục và Đào tạo; Y tế; Tài chính, Quốc phòng, Công an; - Chủ tịch Ủy ban nhân dân các tỉnh, thành phố: Lạng Sơn. Cao Bằng, Phú Thọ, Lào Cai, Điện Biên, Sơn La, Lai Châu, Tuyên Quang, Thái Nguyên, Bắc Ninh, Hưng Yên, Hà Nội, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh.",
+    "type": "string"
+  }
+}

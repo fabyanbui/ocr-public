@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về mức lãi suất cho vay ngắn hạn tối đa bằng đồng Việt Nam của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng vay để đáp ứng nhu cầu vốn phục vụ một số lĩnh vực, ngành kinh tế theo quy định tại Thông tư số 39/2016/TT-NHNN ngày 30 tháng 12 năm 2016 THỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC",
+    "type": "string"
+  },
+  "code": {
+    "value": "920/QĐ-NHNN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "10/05/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; Ban lãnh đạo NHNN",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Thị Hồng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

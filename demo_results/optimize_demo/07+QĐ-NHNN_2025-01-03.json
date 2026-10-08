@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc ban hành Chương trình điều tra thống kê tiền tệ và ngân hàng",
+    "type": "string"
+  },
+  "code": {
+    "value": "07/QĐ-NHNN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "03/01/2025",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "NGÂN HÀNG NHÀ NƯỚC",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Thanh Hà",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Nghị quyết",
+    "type": "string"
+  },
+  "title": {
+    "value": "ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN NĂM 2017 CÔNG TY CỔ PHẦN GẠCH KHANG MINH",
+    "type": "string"
+  },
+  "code": {
+    "value": "02/NQ-KM/2017",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "29/06/201",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CÔNG TY CỔ PHẦN GẠCH KHANG MINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "TGĐ (để thực hiện); Các Ủy viên HĐQT; Các thành viên BKS.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "T/M ĐẠI HỘI ĐỒNG CỔ ĐÔNG CHỦ TỊCH HĐQT",
+    "type": "string"
+  },
+  "signer": {
+    "value": "ĐẶNG VIỆT LÊ",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nam",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

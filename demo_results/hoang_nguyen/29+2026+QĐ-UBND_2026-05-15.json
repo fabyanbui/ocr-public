@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Quy chế mua săm hàng hóa, dịch vụ áp dụng theo phương thức mua săm tập trung trên địa bàn Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "code": {
+    "value": "29/2026/QĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN BẢN QUY PHẠM PHÁP HỦY BAN NHÂN DÂN THÀNH PHỐ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. UY BAN NHÂN DÂN DÂN KT. CHÚ TỊCH PHÓ CHỦ TỊCH Nguyễn Công Vinh",
+    "type": "string"
+  },
+  "signer": {
+    "value": "",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CHỈ THỊ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về đầy nhanh tiến độ triển khai thực hiện nhiệm vụ khoa học công nghệ, đối mới sáng tạo và chuyển đổi số năm 2026",
+    "type": "string"
+  },
+  "code": {
+    "value": "29/CT-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "16/07/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "THỦ TƯỚNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Bộ Chính trị Ban Bí thư Trung ương Đảng Thủ tướng, các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ Tinh uy, Thành ủy, HĐND, UBND các tỉnh, thành phố trực thuộc trung ương, Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tông Bí thư Văn phòng Chủ tịch nước, Hội đồng Dân tộc và các Uy ban của Quốc hội, Văn phòng Quốc hội Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao Kiểm toán nhà nước Uy ban Trung ương Mặt trận Tổ quốc Việt Nam VPCP: BTCN, các PCN, Trợ lý TTg các Vụ, Cục",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Huốc Dũng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG BÁO",
+    "type": "string"
+  },
+  "title": {
+    "value": "(Về ngày đăng ký cuối cùng và xác nhận danh sách người số wea-cho (khoáng)",
+    "type": "string"
+  },
+  "code": {
+    "value": "5269/TB-VSD",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "trung tâm lưu ký chứng khoán việt nam",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Tổng CTCP Tái bảo hiểm PVI; TGĐ; KSNB; THPC (Tổ website)",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Thị Thanh Hà",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Sở giao dịch chứng khoán Hà Nội; Các Thành viên lưu ký",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. TỔNG GIÁM ĐỐC PHÓ TỔNG GIÁM ĐỐC",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

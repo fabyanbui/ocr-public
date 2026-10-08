@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định chi tiết một số điều và biện pháp thi hành Luật An ninh mạng về hoạt động mật mã dân sự",
+    "type": "string"
+  },
+  "code": {
+    "value": "341/2026/NĐ-CP",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "01/09/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Ban Bỉ thư Trung ương Đảng; Thủ tướng, các phó thủ tướng chính phủ; Các bộ, cơ quan ngang bộ HĐND, UBND các tỉnh, thành phố; Văn phòng trung ương và các ban của Đảng; Văn phòng tổng bí thư; Văn phòng chủ tịch nước; Hội đồng Dân tộc và các Ủy ban của Quốc hội; Văn phòng quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban Trung ương mặt trận Tổ quốc Việt Nam; Cơ quan trung ương của các tổ chức chính trị; xã hội; Ban cơ yếu chính phủ; VPCP: BTCN, các PCN, trợ lý TTg, các vụ, cục, công báo",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phan Văn Giang",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

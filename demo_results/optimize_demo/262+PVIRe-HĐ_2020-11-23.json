@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v: Lấy ý kiến cổ đông bằng văn bản",
+    "type": "string"
+  },
+  "code": {
+    "value": "262/PVIRe-HĐ",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "23/11/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "tổng công ty cổ phần Tái bảo hiểm PVI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phan Trịnh Quốc Kiên",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC; SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI; SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI CINX? ĐẾN",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "NGƯỜI ỦY QUYỀN CBTT; GIÁM ĐỐC KHỐI HOẠT ĐỘNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "26/11/2020",
+    "type": "string"
+  }
+}

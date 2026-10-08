@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ QUYẾT",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về kế hoạch phát triển kinh tế - xã hội 5 năm 2026-2030",
+    "type": "string"
+  },
+  "code": {
+    "value": "06/NQ-HĐND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/03/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phùng Thị Hồng Hà",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "CHỦ TỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

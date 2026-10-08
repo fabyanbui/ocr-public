@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Kế hoạch",
+    "type": "string"
+  },
+  "title": {
+    "value": "Tổ chức các hoạt động chào mừng 35 năm Ngày Biên phòng toàn dân (03/31989-03/3/2024)",
+    "type": "string"
+  },
+  "code": {
+    "value": "503/KH-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "06/7/2023",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Ủy ban nhân dân tỉnh Nghệ An",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Bộ Tư lệnh BĐBP QK4; TT Tỉnh ủy TT HĐND tỉnh; Chủ tịch các PCT UBND tỉnh; Ban Tuyên giáo Tỉnh ủy; UBMTTQ tỉnh; Các sở ban ngành đoàn thể cấp tỉnh; Chánh VP Phó CVP UBND (NC) tỉnh; UBND các huyện thành thị; Cổng thông tin ĐT tỉnh.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lê Hồng Vinh",
+    "type": "string"
+  },
+  "province": {
+    "value": "Nghệ An",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

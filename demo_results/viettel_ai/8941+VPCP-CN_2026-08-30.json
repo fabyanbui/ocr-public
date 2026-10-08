@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v trình cơ chế, chính sách áp dụng chung cho các tuyến cao tốc giai đoạn 2026 - 2030",
+    "type": "string"
+  },
+  "code": {
+    "value": "8941/VPCP-CN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/8/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Văn phòng Chính phủ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng các PTTgCP (để b/c); Các Bộ TC TP NN&MT; VPCP BTCN PCN Phạm Mạnh Cường; các Vụ KTTH TH PL CTTCP.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG, CHỦ NHIỆM PHÓ CHỦ NHIỆM",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Mạnh Cường",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Bộ Xây dựng.",
+    "type": "string"
+  }
+}

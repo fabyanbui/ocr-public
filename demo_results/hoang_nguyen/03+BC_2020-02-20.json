@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v CBTT chốt DSCĐ để tỗ",
+    "type": "string"
+  },
+  "code": {
+    "value": "03/BC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CÔNG TY CP THỰC PHÂM BÍCH CHICH CHI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "NGƯỜI THỰGHIỆN CÔNG BỐ THÔNG TIN",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Thanh Bình",
+    "type": "string"
+  },
+  "province": {
+    "value": "Đồng Tháp",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "24/02/2020",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Ủy ban Chứng Khoán Nhà Nước; Sở Giao Dịch Chứng Khoán Hà Nội",
+    "type": "string"
+  }
+}

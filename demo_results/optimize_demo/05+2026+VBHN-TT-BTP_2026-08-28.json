@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "VĂN BẢN HỢP NHẤT",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định tiêu chí phân loại, điều kiện thành lập, sáp nhập, hợp nhất, giải thể đơn vị sự nghiệp công lập thuộc ngành, lĩnh vực tư pháp Thông tư số 07/2022/TT-BTP ngày 01 tháng 11 năm 2022 của Bộ trưởng Bộ Tư pháp quy định tiêu chí phân loại, điều kiện thành lập, sáp nhập, hợp nhất, giải thể đơn vị sự nghiệp công lập thuộc ngành, lĩnh vực tư pháp, có hiệu lực kể từ ngày 19 tháng 12 năm 2022, được sửa đổi, bổ sung bởi:",
+    "type": "string"
+  },
+  "code": {
+    "value": "05/2026/VBHN-TT-BTP",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng chính phủ (để đăng công báo); Bộ trưởng (để báo cáo) Các Thứ trưởng (để biết); Cổng Pháp luật quốc gia CSDL quốc gia về pháp luật (để đăng tải); Cổng Thông tin điện tử bộ tư pháp Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật; bộ tư pháp",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Thanh Tịnh",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

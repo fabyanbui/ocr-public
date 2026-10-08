@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v thực hiện Nghị quyết số 220/2025/QH15 ngày 27/6/2025 của Quốc hội về chủ trương đầu tư Dự án đầu tư xây dựng đường Vành đai 4 Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "code": {
+    "value": "8906/VPCP-CN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN PHÒNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG, CHỦ NHIỆM; PHÓ CHỦ NHIỆM",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Mạnh Cường",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

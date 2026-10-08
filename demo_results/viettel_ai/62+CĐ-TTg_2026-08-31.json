@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công điện",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc thực hiện chế độ, chính sách đối với học sinh thuộc diện đối tượng chính sách, đối tượng yếu thế, có hoàn cảnh gia đình khó khăn; học sinh thuộc vùng đồng bào dân tộc thiểu số, khu vực có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn",
+    "type": "string"
+  },
+  "code": {
+    "value": "62/CĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/8/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Thủ tướng Chính Phủ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng Chính phủ; PTTgCP Lê Tiến Châu; Các Bộ GDĐT NV TC; Tỉnh ủy Thành ủy UBND các tỉnh TP; Văn phòng Trung ương Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; VPCP BTCN PCN Đỗ Ngọc Huỳnh Trợ lý TTg; CTTCP Vụ TCCV.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "THỦ TƯỚNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lê Minh Hưng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "1_HỎA TỐC",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

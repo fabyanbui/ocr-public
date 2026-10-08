@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "KẾ HOẠCH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Tổ chức Lễ Khai giảng năm học 2026 ? 2027, Lễ khánh thành các trường phố thông nội trú liên cấp tại các xã biên giới đất liền và tổ chức trao Quyết định thành lập Trường Phổ thông Trần Quốc Hoàn",
+    "type": "string"
+  },
+  "code": {
+    "value": "819/KH-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng Chính phủ (b/c); Văn phòng bộ GD&ĐT (b/c); Chủ tịch UBND tỉnh Các Phó Chủ tịch UBND tỉnh; Văn phòng tỉnh ủy; UBMTTQ VN tinh; Văn phòng UBND tỉnh; Các sở, ngành, ban ngành cấp tỉnh Báo và PTTH nghệ an",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Thái Văn Thành",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Nghệ An",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Thông tư",
+    "type": "string"
+  },
+  "title": {
+    "value": "HƯỚNG DẪN MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 71/2017/NĐ-CP NGÀY 6 THÁNG 6 NĂM 2017 CỦA CHÍNH PHỦ HƯỚNG DẪN VỀ QUẢN TRỊ CÔNG TY ÁP DỤNG ĐỐI VỚI CÔNG TY ĐẠI CHÚNG",
+    "type": "string"
+  },
+  "code": {
+    "value": "95/2017/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "22/9/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Bộ Tài chính",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng Quốc hội; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng TƯ và các Ban của Đảng; Văn phòng Ban chỉ đạo TƯ về phòng chống tham nhũng; Thủ tướng các Phó Thủ tướng Chính phủ; Các Bộ cơ quan ngang Bộ cơ quan thuộc Chính phủ; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán nhà nước; HĐND UBND các tỉnh thành phố trực thuộc TƯ; Website Chính phủ; Cục Kiểm tra Văn bản (Bộ Tư pháp); Các đơn vị thuộc Bộ Tài chính; Website Bộ Tài chính UBCKNN.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Xuân Hà",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

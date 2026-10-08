@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ QUYẾT",
+    "type": "string"
+  },
+  "title": {
+    "value": "ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN NĂM 2017",
+    "type": "string"
+  },
+  "code": {
+    "value": "03/NQ-ĐHCĐ",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "25/04/2018",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CÔNG TY CỔ PHẦN DU LỊCH - THƯƠNG MẠI TN",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Cổ đông",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lê Hữu Phước",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ĐOÀN CHỦ TỊCH CHỦ TỌA",
+    "type": "string"
+  },
+  "province": {
+    "value": "Tây Ninh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

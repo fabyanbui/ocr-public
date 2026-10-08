@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "\"V/v CBTT chốt DSCĐ để tổ chức ĐHĐCĐ thường niên 2020\"",
+    "type": "string"
+  },
+  "code": {
+    "value": "93/BC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "26/02/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Thanh Bình",
+    "type": "string"
+  },
+  "province": {
+    "value": "Đồng Tháp",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "- Ủy ban Chứng Khoán Nhà Nước; - Sở Giao Dịch Chứng Khoán Hà Nội.",
+    "type": "string"
+  }
+}

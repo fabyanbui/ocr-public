@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v triển khai thực hiện công điện số 83/CĐ-TTg ngày 07/6/2025 của Thủ tướng Chính phủ tiếp tục đẩy mạnh phân cấp, phân quyền; phân định thẩm quyền trong các lĩnh vực",
+    "type": "string"
+  },
+  "code": {
+    "value": "5324/UBND-TH",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "11/06/2025",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "UỶ BAN NHÂN DÂN TỈNH NGHỆ AN",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "V",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Đẳng Thanh Tùng",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Các sở, ban, ngành thuộc UBND tỉnh",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TL. CHỦ TỊCH CHÁNH VĂN PHÒNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Nghệ An",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

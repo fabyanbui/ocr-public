@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Công bố Danh mục thủ tục hành chính và Quy trình nội bộ, quy trình điện tử trong giải quyết thủ tục hành chính lĩnh vực Chăn nuôi và lĩnh vực Thú y thuộc phạm vi giải quyết của Sở Nông nghiệp và Môi trường, Sở Tài chính, Ủy ban nhân dân cấp huyện trên địa bàn tỉnh Nghệ An",
+    "type": "string"
+  },
+  "code": {
+    "value": "1321/QĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "12/5/2025",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Ủy ban nhân dân tỉnh Nghệ An",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; Cục Kiểm soát TTHC (VPCP); Bộ Nông nghiệp và Môi trường; Chủ tịch UBND tỉnh; PCT UBND tỉnh (đ/c Đệ); CVP UBND tỉnh; PCVP UBND tỉnh (đ/c Thiền); Trung tâm Phục vụ HCC tỉnh; Cổng Thông tin điện tử tỉnh.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Văn Đệ",
+    "type": "string"
+  },
+  "province": {
+    "value": "Nghệ An N",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

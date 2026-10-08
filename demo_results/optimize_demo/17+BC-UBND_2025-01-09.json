@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "BÁO CÁO",
+    "type": "string"
+  },
+  "title": {
+    "value": "Công tác kiểm soát thủ tục hành chính, triển khai cơ chế một cửa, một cửa liên thông và thực hiện thủ tục hành chính trên môi trường điện tử tỉnh nghệ An năm 2024, phương hướng, nhiệm vụ năm 2025 L. TÌNH HÌNH, KẾT QUẢ KIỂM SOÁT THỦ TỤC HÀNH CHÍNH 1. Đánh giá tác động thủ tục hành chính quy định tại dự thảo văn bản quy phạm pháp luật",
+    "type": "string"
+  },
+  "code": {
+    "value": "17/BC-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "09/01/2025",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Cục KSTTHC-VPCP (b/c); Chủ tịch UBND tỉnh; Chánh VP UBND tỉnh; PCVP UBND tỉnh (đ/c thiền); Cổng TTĐT tỉnh",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lê Hồng Vinh",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ỦY BAN NHÂN DÂN CHỦ TỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Nghệ An",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

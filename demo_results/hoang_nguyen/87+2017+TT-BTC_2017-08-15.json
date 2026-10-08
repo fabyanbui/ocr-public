@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG TƯ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định chi tiêu an toàn tài chính và biện pháp xứ lý đối với tổ chức kinh doanh chứng khoán không đáp ứng chi tiêu an toàn tài chính",
+    "type": "string"
+  },
+  "code": {
+    "value": "87/2017/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "15/08/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng Quốc hội; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Ban chỉ đạo TW về phòng chống tham nhữ; Thủ tướng, các Phó Thủ tướng Chính phủ; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Viện Kiểm sát nhân dân tối cao; Toà án nhân dân tối cao; Kiểm toán Nhà nước; HĐND, UBND các tỉnh, thành phố trựn trung ương; Công báo; Website Chính phủ; Cục Kiểm tra Văn bản; Bộ Tư pháp; Các đơn vị thuộc Bộ Tài chính; Website Bộ Tài chính",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Xuân Hà",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

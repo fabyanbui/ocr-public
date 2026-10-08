@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ QUYẾT",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định chính sách thúc đẩy chuyển đổi số, phát triển sản phẩm, dịch vụ công nghệ số trên địa bàn thành phố Hà Nội (thực hiện điểm b, điểm e khoản 2 Điều 18 Luật Thủ đô số 02/2026/QH16)",
+    "type": "string"
+  },
+  "code": {
+    "value": "59/2026/NQ-HĐND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "15/06/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Ủy ban thường vụ quốc hội; Chính phủ; Ủy ban Công tác đại biểu của Quốc hội; Ủy ban KH,CN và MT của Quốc hội; Văn phòng Quốc hội; văn phòng chính phủ; Các Bộ: Khoa học và công nghệ, Quốc phòng,; Công an, Nội vụ, Tư pháp, Tài chính; Cục KTVB và QLXLVPHC; Bộ Tư pháp; Kiểm toán nhà nước; Ban Thường vụ thành ủy; Đoàn Đại biểu Quốc hội TP Hà Nội; Thường trực HĐND, UBND, UBMTTQ Thành phố; Các Ban Đảng Thành ủy, VPTụ; Các Ban của HĐND Thành phố; Các vị Đại biểu HĐND Thành phố; Các VP: Đoàn ĐBQH8HĐND, UBND TP; Các sở, ban, ngành thành phố; Đảng ủy các xã, phường; TT HĐND, UBND các xã, phường; Trang TTĐT của Đoàn ĐBQH và HĐND TP; Trung tâm TT, DL và CNS Thành phố",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phùng Thị Hồng Hà",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "CHỦ TỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

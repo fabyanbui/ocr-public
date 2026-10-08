@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc ban hành Quy chế tổ chức và hoạt động của Hội đồng chỉ số Sở Giao dịch chứng khoán thành phố Hồ Chí Minh.",
+    "type": "string"
+  },
+  "code": {
+    "value": "31/QĐ-SGDHCM",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; UBCKNN (để b/c); HĐQT (để b/c); Ban TGĐ, BKS (để b/c)",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Văn Dũng",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. HỘI ĐỒNG QUẢN TRỊ SỞ GIAO CHŨ TỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

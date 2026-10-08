@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Quy tắc ứng xử nghề nghiệp của người làm công tác thư viện BỘ TRƯỞNG BỘ VĂN HOÁ, THỂ THAO VÀ DU LỊCH",
+    "type": "string"
+  },
+  "code": {
+    "value": "3815/QĐ-BVHTTDL",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/12/2022",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ VĂN HÓA, THỂ THAO VÀ DU LỊCH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trịnh Thị Thủy; THỂ THANH TRƯỞNG",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

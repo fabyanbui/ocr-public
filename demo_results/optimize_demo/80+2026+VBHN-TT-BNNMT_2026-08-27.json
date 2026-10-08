@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "VĂN BẢN HỢP NHẤT",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định ghi, nộp báo cáo, nhật ký khai thác thủy sản; kiểm tra tàu cá và giám sát sản lượng thủy sản tại cảng cá; danh sách tàu cá khai thác thủy sản bất hợp pháp; xác nhận nguyên liệu, chứng nhận nguồn gốc thủy sản khai thác Thông tư số 81/2025/TT-BNNMT ngày 31 tháng 12 năm 2025 của Bộ Nông nghiệp và Môi trường quy định ghi, nộp báo cáo, nhật ký khai thác thủy sản; kiểm tra tàu cá và giám sát sản lượng thủy sản tại cảng cá, danh sách tàu cá khai thác thủy sản bất hợp pháp, xác nhận nguyên liệu, chứng nhận nguồn gốc thủy sản khai thác, có hiệu lực thi hành từ ngày 31 tháng 12 năm 2025, được sửa đổi, bổ sung bởi:",
+    "type": "string"
+  },
+  "code": {
+    "value": "80/2026/VBHN-TT-BNNMT",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "27/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng chính phủ (để đăng công báo); Bộ trưởng (để b/c); Vụ Pháp chế (để đăng trên Cơ sở dữ liệu quốc gia về pháp luật); Cổng Thông tin điện tử Chính phủ (để đăng tải); Cổng Thông tin điện tử bộ nông nghiệp và Môi trường (để đăng tải)",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Ở Văn Hưng",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

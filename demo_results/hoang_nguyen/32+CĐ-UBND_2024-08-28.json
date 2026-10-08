@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CÔNG ĐIỆN",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc bảo đảm trật tự, an toàn giao thông phục vụ nhu cầu đi lại của Nhân dân, trong dịp nghi Lễ Quốc khánh 02/9/2024 và khai giảng năm học mới 2024 -2025",
+    "type": "string"
+  },
+  "code": {
+    "value": "32/CĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "UỶ BAN NHÂN DÂN TỈNH NGHỆ AN",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "bm; Như trên; Chủ tịch UBND tỉnh; Phó Chủ tịch TT UBND tỉnh; CVP, PVP NC UBND tỉnh; Các sở, ban, ngành cấp tỉnh; UBND các huyện, thành, thị; Báo Nghệ An, Đài PT&TH; Cổng Thông tin điện tử",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. UỶ BAN NHÂN DÂN KT.CHỦ TỊCH DD PHỐ CHỦ TỊCH E",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lễ Hồng Vinh",
+    "type": "string"
+  },
+  "province": {
+    "value": "Nghệ An",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Giám đốc các sở, Thủ trưởng các ban, ngành cấp tỉnh; Chủ tịch UBND các huyện, thành phố, thị xã.",
+    "type": "string"
+  }
+}

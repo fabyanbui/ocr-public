@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG BÁO",
+    "type": "string"
+  },
+  "title": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI (Về ngày đăng ký cuối cùng để thực hiện quyền chi trả trái tức kỳ thán han hiến trái phiếu TNG119007)",
+    "type": "string"
+  },
+  "code": {
+    "value": "48-CV/TNG",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "06/01/2021",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CÔNG TY CỔ PHẢN ĐẦU TƯ VÀ THƯƠNG MẠI TNG xx x",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "NGUYỄN VĂN THỜI",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thái Nguyên",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Trung tâm Lưu ký Chứng khoán Việt Nam 00434",
+    "type": "string"
+  }
+}

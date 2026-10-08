@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Phê duyệt Lộ trình phát triển thị trường trái phiếu giai đoạn 2017 - 2020, tầm nhìn đến năm 2030",
+    "type": "string"
+  },
+  "code": {
+    "value": "1191/QĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "14/08/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "THỦ TƯỚNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Xuân Phúc",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "THỦ TƯỚNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CHỈ THỊ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc phát động thi đuathực hiện thắng lợi các nhiệm vụ, chỉ tiêu phát triển kinh tế - xã hộihằng năm và Kế hoạch 5 năm (2026 - 2030) theo Nghị quyết Đại hội Đảng bộ Thành phố Hồ Chí Minh lần thứ I (2025 - 2030) Thực hiện Chỉ thị số 41-CT/TW ngày 26 tháng 12 năm 2024 của Bộ Chính trị về việc ? Tăng cường sự lãnh đạo của Đảng đối với công tác thi đua, khen thưởng trong tình hình mới? và Chỉ thị số 45-CT/TU ngày 16 tháng 4 năm 2025 của Thành ủy về tăng cường sự lãnh đạo của Đảng đối với công tác thi đua, khen thưởng trong tình hình mới tại thành phố hồ chí minh.",
+    "type": "string"
+  },
+  "code": {
+    "value": "46/CT-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "18/05/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Bùi Minh Thạnh",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT, CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ QUYẾT",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định cơ chế, chính sách đặc thù tháo gỡ khó khăn, vướng mắc trong việc thực hiện các dự án, công trình phục vụ Hội nghị cấp cao APEC 2027 tại đặc khu Phú Quốc, tỉnh An Giang QUỐC HỘI",
+    "type": "string"
+  },
+  "code": {
+    "value": "41/2026/QH16",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "QUỐC HỘI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "province": {
+    "value": "",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v thông báo điều hành giá bán xăng dầu",
+    "type": "string"
+  },
+  "code": {
+    "value": "5963/BCT-TTIN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/07/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ CÔNG THƯƠNG",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Lãnh đạo Bộ Công Thương (b/c); Lãnh đạo Bộ Tài chính (b/c); Ngân hàng Nhà nước Việt Nam; Cục Quản lý giá; Bộ Tài chính; Các NHTM nơi thương nhân mở tài khoản Quỹ BOG xăng dầu; CT Trần Hữu Linh; Sở Công Thương các tỉnh, thành phố; Hiệp hội Xăng dầu Việt Nam",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TL. BỘ TRƯỞNG; KT. CỤC TRƯỞNG CỤC; PHÓ CỤC TRƯỞNG Nguyễn Thúy Hiền",
+    "type": "string"
+  },
+  "signer": {
+    "value": "QUẢN LÝ VÀ PHÁT TRIỂN",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

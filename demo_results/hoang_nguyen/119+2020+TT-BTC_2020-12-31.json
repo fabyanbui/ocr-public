@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG TƯ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định hoạt động đăng ký, lưu ký, bù trừ và thanh toán giao dịch chứng khoán",
+    "type": "string"
+  },
+  "code": {
+    "value": "119/2020/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Huỳnh Quang Hải",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

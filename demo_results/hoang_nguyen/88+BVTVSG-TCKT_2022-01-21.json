@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CÔNG BỐ THÔNG TIN BẤT THƯỜNG",
+    "type": "string"
+  },
+  "title": {
+    "value": "",
+    "type": "string"
+  },
+  "code": {
+    "value": "88/VVVVGG-TCKT",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "21/01/2022",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "TỔNG CÔNG TY NÔNG NGHIỆP SÀI GÒN TNHH MỘT THÀNH VIÊN CÔNG TY CỔ PHẦN BẢO VỆ THỰC VẬT SÀI GÒN",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "PHÓ GIÁM ĐỐC",
+    "type": "string"
+  },
+  "signer": {
+    "value": "ĐIÊU QUANG TRUNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

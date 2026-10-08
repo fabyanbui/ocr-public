@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v trả lời kiến nghị của cử tri gửi tới\nsau Kỳ họp thứ nhất, Quốc hội khóa XVI",
+    "type": "string"
+  },
+  "code": {
+    "value": "4977/BVHTTDL-VP",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "07/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ VĂN HÓA, THỂ THAO VÀ DU LỊCH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng Chính phủ (để báo cáo); Phó Thủ tướng Chính phủ (để báo cáo); Đoàn Chủ tịch UBTUMTTQ Việt Nam; Uy ban Dân nguyện và Giám sát của Quốc hội; HĐND, UBND tinh tây ninh; Văn phòng Quốc hội; văn phòng chính phủ; Bộ VHTTDL: Bộ trưởng, các thứ trưởng Cục NTBD; Vụ PC, Cổng TTĐT Bộ",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lâm Thị Phương Thanh",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Đoàn Đại biểu Quốc hội tỉnh Tây Ninh",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "BỘ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

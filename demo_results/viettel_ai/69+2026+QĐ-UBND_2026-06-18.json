@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc ban hành Quy trình công nghệ và Định mức kinh tế - kỹ thuật công tác quản lý, bảo trì hệ thống camera hệ thống thiết bị trung tâm và thiết bị ngoại vi trên địa bàn thành phố Hà Nội",
+    "type": "string"
+  },
+  "code": {
+    "value": "69/2026/QĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "18/6/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Ủy ban nhân dân Thành phố Hà Nội",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; Bộ Xây dựng; Thường trực HĐND Thành phố; Chủ tịch UBND Thành phố; Các Phó Chủ tịch UBND Thành phố; Cục KTVB và QLXLVPHC-Bộ Tư pháp; Các sở ban ngành Thành phố; Văn phòng Đoàn ĐBQH và HĐND TP Hà Nội; UBND các xã phường; VP UBND TP CVP các PCVP các PCM; Trung tâm TT DL và Công nghệ số thành phố HN.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trương Việt Dũng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

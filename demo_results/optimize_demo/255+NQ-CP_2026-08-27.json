@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ QUYẾT",
+    "type": "string"
+  },
+  "title": {
+    "value": "CHÍNH PHỦ",
+    "type": "string"
+  },
+  "code": {
+    "value": "255/NQ-CP",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "27/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Gia Túc",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "1_HỎA TỐC",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

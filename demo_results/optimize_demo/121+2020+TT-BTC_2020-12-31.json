@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG TƯ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định về hoạt động của công ty chứng khoán",
+    "type": "string"
+  },
+  "code": {
+    "value": "121/2020/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng trung ương và các ban của Đảng; Văn phòng tổng bí thư; Văn phòng chính phủ; Văn phòng quốc hội; Văn phòng chủ tịch nước; Thủ tướng, các phó thủ tướng chính phủ; Văn phòng Ban chỉ đạo TW về phòng chống tham nhũng; Các Bộ, cơ quan ngang bộ, cơ quan thuộc chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; Viện Kiểm sát nhân dân tối cao; Toà án nhân dân tối cao; Kiểm toán nhà nước; Cơ quan Trung ương của các Đoàn thể; Công báo; Cổng thông tin điện tử Chính phủ; Cục Kiểm tra Văn bản; bộ tư pháp; Các đơn vị thuộc bộ tài chính; Cổng thông tin điện tử bộ tài chính; Cổng thông tin điện tử Uy ban Chứng khoán Nhà nước",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Huỳnh Quang Hải",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

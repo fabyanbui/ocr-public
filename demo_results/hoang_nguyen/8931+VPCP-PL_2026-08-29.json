@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v Báo cáo tình hình triển khai tổng rà soát hệ thống VBQPPL",
+    "type": "string"
+  },
+  "code": {
+    "value": "8931/VPCP-PL",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "19/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN PHÒNG CHÍNH PHỦNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng, các PTTg (để b/c); Các Bộ, cơ quan ngang Bộ; VPCP: BTCN, PCN Nguyễn Văn Thắng; Các Vụ, Cục",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG, CHỦ NHIỆM PHÓ CHỦ NHIỆM",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Văn Thắng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Bộ trưởng Bộ Tư pháp",
+    "type": "string"
+  }
+}

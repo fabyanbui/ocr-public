@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Nghị định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định xử phạt vi phạm hành chính về thuế, hóa đơn",
+    "type": "string"
+  },
+  "code": {
+    "value": "27/2026/VBHN-NĐ-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "27/8/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN BẢN HỢP NHẤT",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng Chính phủ (để đăng Công; báo); Bộ Tư pháp (để đăng trên Cơ sở dữ liệu; quốc gia về pháp luật); Bộ trưởng (để báo cáo); Cổng TTĐT của Bộ Tài chính (để đăng; tải); Cục Thuế (để đăng tải trên Cổng TTĐT; của Cục Thuế).",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "BỘ TÀI CHÍNH XÁC THỰC VĂN BẢN HỢP NHẤT KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lê Tấn Cận",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội N",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về ban hành Quy chế tiếp nhận, xử lý, phát hành, quản lý và lưu trữ văn bản điện tử giữa các cơ quan hành chính nhà nước trên địa bàn Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "code": {
+    "value": "33/2026/QĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "04/06/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. UY BAN NHÂN DÂN DÂN DÂN KT. CHÚ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Mạnh Cường",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chi Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

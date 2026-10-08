@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Nghị định",
+    "type": "string"
+  },
+  "title": {
+    "value": "HƯỚNG DẪN VỀ QUẢN TRỊ CÔNG TY ÁP DỤNG ĐỐI VỚI CÔNG TY ĐẠI CHÚNG",
+    "type": "string"
+  },
+  "code": {
+    "value": "71/2017/NĐ-CP",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "06/06/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Ban Bí thư Trung ương Đảng; Thủ tướng các Phó Thủ tướng Chính phủ; Các bộ cơ quan ngang bộ cơ quan thuộc; Chính phủ; HĐND UBND các tỉnh thành phố trực thuộc; trung ương; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Hội đồng dân tộc và các Ủy ban của Quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban Giám sát tài chính Quốc gia; Ngân hàng Chính sách xã hội.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

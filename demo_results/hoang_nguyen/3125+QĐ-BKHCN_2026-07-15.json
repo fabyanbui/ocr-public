@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc đính chính Thông tư số 01/2026/TT-BKHCN ngày 15 tháng 01 năm 2026 của Bộ trưởng Bộ Khoa học và Công nghệ hướng dẫn thực hiện một số điều của Nghị định số 295/2025/NĐ-CP ngày 15 tháng 11 năm 2025 của Chính phủ quy định chi tiết thi hành Luật Viễn thông về hoạt động viễn thông công ích và cơ chế tài chính thực hiện hoạt động viễn thông công ích BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ",
+    "type": "string"
+  },
+  "code": {
+    "value": "3125/QĐ-BKHCN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "15/07/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ KHOA HỌC VÀ CÔNG NGHỆ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Đức Long",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

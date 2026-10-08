@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định về dạy thêm, học thêm trên địa bàn thành phố Hà Nội",
+    "type": "string"
+  },
+  "code": {
+    "value": "61/2026/QĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "01/6/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Ủy ban nhân dân Thành phố Hà Nội",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Khoản 2 Điều 11; Các Bộ GDĐT Tư pháp; để báo cáo); Thường trực Thành ủy; Thường trực HĐND TP; Chủ tịch UBND Thành phố; Cục KTVB&TCTHPL (Bộ Tư pháp); Các Phó Chủ tịch UBND Thành phố; VPUB CVP các PCV P PhVHXH TH; Các trường ĐH CĐ trên địa bàn HN; Trung tâm Truyền thông Dữ liệu; và Công nghệ số thành phố Hà Nội.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Vũ Thu Hà",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội N",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

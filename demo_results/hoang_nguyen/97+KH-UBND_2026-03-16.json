@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "KẾ HOẠCH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Chuyển đổi số và phát triển đô thị thông minh Thành phố Hồ Chí Minh năm 2026",
+    "type": "string"
+  },
+  "code": {
+    "value": "97/KH-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "16/03/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Bộ Khoa học và Công nghệ (b/c) Thường trực Thành ủy; Thường trực HĐND TP TTUB: CT, Các PCT BCĐ VỀ PTKHCN, ĐMST, CĐS VÀ ĐA 06 TP; Các sở, ban, ngành; UBND các phường, xã, đặc khu VPUB: CVP, các PCVP; Phòng VX",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. UY BAN NHÂN DÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Mạnh Cường",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

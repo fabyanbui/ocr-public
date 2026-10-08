@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v tập trung khắc phục hậu quả\nbão số 4 và mưa lũ",
+    "type": "string"
+  },
+  "code": {
+    "value": "8916/VPCP-NN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN PHÒNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng, các phó thủ tướng CP; Văn phòng trung ương Đảng; VPCP: BTCN, các PCN, Trợ lý TTg CTTCP, các vụ: CN, NC, KTTH, KGVX Lưu: Văn thư, NN (2)",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Mạnh Cường",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "LƯỞNG, CHỦ NHIỆM CHỦ NHIỆM",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

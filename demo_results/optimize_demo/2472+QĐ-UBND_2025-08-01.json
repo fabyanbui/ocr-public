@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Phê duyệt Chương trình khuyến nông tỉnh Nghệ An giai đoạn 2026 - 2030 CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+    "type": "string"
+  },
+  "code": {
+    "value": "2472/QĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "01/08/2025",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "fz",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Văn Đệ",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Nghệ An",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

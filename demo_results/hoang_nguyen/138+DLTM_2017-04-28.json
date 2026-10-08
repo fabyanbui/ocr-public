@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v Báo cáo giải trình lợi nhuận Q1/2017 tăng so với lợi nhuận Q1/2016",
+    "type": "string"
+  },
+  "code": {
+    "value": "158/DLTM",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/04/2015",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CÔNG TY CỔ PHẦN DU LỊCH - THƯƠNG MẠI TÂY NINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên,; SGDCKHN",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Anh Minh",
+    "type": "string"
+  },
+  "province": {
+    "value": "Tây Ninh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Ủy Ban Chứng khoán Nhà nước",
+    "type": "string"
+  }
+}

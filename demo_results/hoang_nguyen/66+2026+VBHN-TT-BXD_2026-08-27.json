@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "VĂN BẢN HỢP NHẤT",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định trình tự, thủ tục cấp mới, cấp lại, tạm đình chỉ hoạt động, thu hồi giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới của cơ sở đăng kiêm xe cơ giới, cơ sở kiêm định khí tô, xe găn máy Thông tư số 46/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định trình tự, thủ tục cấp mới, cấp lại, tạm đình chỉ hoạt động, thu hồi giây chứng nhận đủ điều kiên hoạt động kiểm định xe cơ giới của cơ sở đăng kiểm xe cơ giới, cơ sở kiểm định khí thải xe mô tô, xe gần máy, có hiệu lực từ ngày 01 tháng 01 năm 2025, được sửa đổi, bồ sung bởi",
+    "type": "string"
+  },
+  "code": {
+    "value": "66/2026/VBHN-TT-BXD",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "27/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Bộ trưởng (để b/c); Văn phòng Chính phủ (để đăng Công báo); Vụ Pháp chế (để đăng trên Cơ sở dữ liệu quốc gia về pháp luật); Cổng Thông tin điện tử Chính phủ (để đăng tải); Cổng Thông tin điện tử Bộ Xây dựng tải)",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG; THỨ TRƯỞNG AY 4",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lênh Tuấn",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

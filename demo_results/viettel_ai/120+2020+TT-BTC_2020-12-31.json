@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Thông tư",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định giao dịch cổ phiếu niêm yết, dăng ký giao dịch và chứng chỉ quỹ, trái phiếu doanh nghiệp, chứng quyền có bảo đảm niêm yế trên hệ thống giao dịch chứng khoán",
+    "type": "string"
+  },
+  "code": {
+    "value": "120/2020/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Bộ Tài chính",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chính phủ; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Thủ tướng các Phó Thủ tướng Chính phủ; Các Bộ cơ quan ngang Bộ cơ quan thuộc Chính phủ; Cơ quan Trung ương của các đoàn thể; Viện Kiểm sát nhân dân tối cao; Toà án nhân dân tối cao; HĐND UBND các tỉnh thành phố trực thuộc Trung ương; Kiểm toán Nhà nước; Công báo; Cổng Thông tin điện tử Chính phủ; Cục kiểm tra văn bản (Bộ Tư pháp); Các đơn vị thuộc Bộ Tài chính; Cổng Thông tin điện tử Bộ Tài chính; Cổng Thông tin điện tử Ủy ban Chứng khoản Nhà nước.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Huỳnh Quang Hải",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội N",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

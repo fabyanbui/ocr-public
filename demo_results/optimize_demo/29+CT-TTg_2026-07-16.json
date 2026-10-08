@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CHỈ THỊ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Thời gian qua, với sự chi đạo quyết liệt của Lãnh đạo Đảng, Nhà nước, Chính phủ, Thủ tướng Chính phủ, sự vào cuộc của cả hệ thống chính trị, công tác phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đối số quốc gia (KH, CN, ĐMSTaCĐS) gắn với thực hiện Nghị quyết số 57-NQ/TW của Bộ Chính trị đã đạt được những kết quả ban đầu tích cực, quan trọng, góp phần vào sự phát triển kinh tế - xã hội của đất nước, được cộng đồng quốc tế ghi nhận. Tuy nhiên, vẫn còn tình trạng nhiều nhiệm vụ chậm tiến độ, quá hạn thực hiện hoặc chưa bảo đảm kết quả đầu ra; tỷ lệ giải ngân vốn ngân sách nhà nước năm 2026 trong lĩnh vực này còn thấp, đặc biệt là giải ngân vốn cho chuyển đổi số. Những tồn tại này chủ yếu do cơ chế, chính sách chưa được hoàn thiện đồng bộ, kịp thời, công tác tổ chức thực hiện ở một số bộ, ngành, địa phương còn chưa chủ động và thiếu quyết tâm chính trị; năng lực triển khai nhiệm vụ ở cấp xã còn nhiều hạn chế; tâm lý e ngại, dẫn đến thiếu quyết liệt của người đứng đầu tại một số cơ quan, địa phương vẫn còn tồn tại.",
+    "type": "string"
+  },
+  "code": {
+    "value": "2.9/CT-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "16/07/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "THỦ TƯỚNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Quốc Dũng",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "1_HỎA TỐC",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT THỦ TƯỚNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

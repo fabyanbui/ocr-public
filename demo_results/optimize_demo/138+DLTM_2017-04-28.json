@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v Báo cáo giải trình lợi nhuận Q1/2017\ntăng so với lợi nhuận Q1/2016",
+    "type": "string"
+  },
+  "code": {
+    "value": "138/DLTM",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CÔNG TY CỔ PHẦN DU LỊCH ? THƯƠNG MẠI TÂY NINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; SGDCKHN",
+    "type": "string"
+  },
+  "signer": {
+    "value": "THƯƠNG NAI TÂY NINH NW",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Ủy Ban Chứng khoán Nhà nước",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TỔNG GIÁM ĐỐC CÔNG TY CỔ PHẦN DU LỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Tây Ninh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "03/05/2017",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v: Công bố thông tin Nghị quyết Đại hội đồng cổ đông",
+    "type": "string"
+  },
+  "code": {
+    "value": "270/PVIRe-HĐ",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "04/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "TỔNG CÔNG TY CỔ PHẦN TÁI BẢO HIỂM PVI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "GIÁM ĐỐC KHỐI HOẠT ĐỘNG Phan Trịnh Quốc Kiên",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Kính gửi: ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI (HNX)",
+    "type": "string"
+  }
+}

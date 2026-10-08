@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc điều chỉnh, bổ sung một số điều của Quyết định số 948/QĐ-TTg ngày 17 tháng 05 năm 2025 của Thủ tướng Chính phủ",
+    "type": "string"
+  },
+  "code": {
+    "value": "1679/QĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/8/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Thủ tướng Chính Phủ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Bộ Chính trị; Ban Bí thư Trung ương Đảng; Thủ tướng các Phó Thủ tướng Chính phủ; Các bộ cơ quan ngang bộ; Tỉnh ủy HĐND UBND tỉnh An Giang; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Hội đồng Dân tộc và các Ủy ban của Quốc hội; Văn phòng Quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Cơ quan trung ương của các tổ chức chính trị-xã hội; VPCP BTCN các PCN Trợ lý TTg các Vụ Cục; CTTCP Công báo; Lưu VT QHĐP.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Gia Túc",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

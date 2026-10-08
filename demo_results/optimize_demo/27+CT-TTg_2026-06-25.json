@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CHỈ THỊ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc tăng cường quản lý, nâng cao hiệu quả sử dụng và thúc đẩy giải ngân vốn ODA, vay ưu đãi nước ngoài năm 2026 và giai đoạn tiếp theo. Treated Năm 2026 có ý nghĩa đặc biệt quan trọng, là năm đầu tiên triển khai kế \"hoạch đầu tư công trung hạn giai đoạn 2026-2030, đồng thời là thời điểm chuyển tiếp quan trọng sau khi hoàn thành sắp xếp tổ chức bộ máy và vận hành ổn định mô hình chính quyền địa phương hai cấp. Việc nâng cao hiệu quả sử dụng vốn và đẩy nhanh tiến độ giải ngân vốn đầu tư công năm 2026, trong đó có nguồn vốn ODA, vốn vay ưu đãi nước ngoài, không chỉ góp phần tạo đà tăng trưởng kinh tế bền vững, bảo đảm các cân đối lớn của nền kinh tế, mà còn định hình kỳ cương, hiệu quả quản lý và sử dụng nguồn vốn nước ngoài cho cả giai đoạn 2026-2030.",
+    "type": "string"
+  },
+  "code": {
+    "value": "27/CT-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "25/06/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Cơ quan phái hành: Văn PHÒNG CHÍNH PHủ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Văn Thắng",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

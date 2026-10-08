@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG BÁO",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về ngày đăng ký cuối cùng lập danh sách cổ đông CTCP Cấp nước Gia Định(MCK: GDW)",
+    "type": "string"
+  },
+  "code": {
+    "value": "/TB-QLNY",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "11/12/2018",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "PHÒNG QUẢN LÝ NIÊM YẾT",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

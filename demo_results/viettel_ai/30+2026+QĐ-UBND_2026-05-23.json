@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Quy chế quản lý, kết nối và chia sẻ dữ liệu số của Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "code": {
+    "value": "30/2026/QĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "23/5/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Ủy ban nhân dân Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Mạnh Cường",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

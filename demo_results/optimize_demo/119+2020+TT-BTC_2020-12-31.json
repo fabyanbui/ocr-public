@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG TƯ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định hoạt động đăng ký, lưu ký, bù trừ và thanh toán giao dịch chứng khoán",
+    "type": "string"
+  },
+  "code": {
+    "value": "119/2020/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng trung ương và các ban của Đảng; Văn phòng tổng bí thư; Văn phòng chính phủ; Văn phòng Quốc hội; Văn phòng chủ tịch nước; Thủ tướng, các phó thủ tướng chính phủ; Các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; Cơ quan Trung ương của các đoàn thể; Viện Kiểm sát nhân dân tối cao; Toà án nhân dân tối cao; HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; Kiểm toán nhà nước; Công báo; Cổng Thông tin điện tử chính phủ; Cục kiểm tra văn bản (bộ Tư pháp); Các đơn vị thuộc bộ tài chính; Cổng Thông tin điện tử bộ tài chính; Cổng Thông tin điện tử Ủy ban chứng khoán nhà nước",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Huỳnh Quang Hải",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG; THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

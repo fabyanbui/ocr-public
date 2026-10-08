@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": null,
+    "type": "string"
+  },
+  "title": {
+    "value": null,
+    "type": "string"
+  },
+  "code": {
+    "value": null,
+    "type": "string"
+  },
+  "documentDate": {
+    "value": null,
+    "type": "string"
+  },
+  "officeSender": {
+    "value": null,
+    "type": "string"
+  },
+  "recipients": {
+    "value": null,
+    "type": "string"
+  },
+  "signer_title": {
+    "value": null,
+    "type": "string"
+  },
+  "signer": {
+    "value": null,
+    "type": "string"
+  },
+  "province": {
+    "value": null,
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": null,
+    "type": "string"
+  },
+  "priority_level": {
+    "value": null,
+    "type": "string"
+  },
+  "security_level": {
+    "value": null,
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": null,
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc thi hành kỷ luật đối với ông Nguyễn Trường Sơn, Thứ trưởng Bộ Y tế",
+    "type": "string"
+  },
+  "code": {
+    "value": "2271/QĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/12/2021",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Thủ tướng Chính Phủ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; Ban Bí thư (để b/c); Thủ tướng các Phó Thủ tướng Chính phủ; Ủy ban Kiểm tra Trung ương; Ban Tổ chức Trung ương; Đảng ủy Khối các cơ quan Trung ương; Các Bộ Nội vụ Y tế; VPCP BTCN các PCN Trợ lý TTg; TGĐ Cổng TTĐT VPBCSĐ (3).",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TTĐT KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Bình Minh",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "06/01/2022",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

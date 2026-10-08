@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc ban hành Quy tắc xây dựng và quản lý Bộ chỉ số HOSE-Index - Chỉ số Phát triển bền vững phiên bản 1.0",
+    "type": "string"
+  },
+  "code": {
+    "value": "237/QĐ-SGDHCM",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "5/07/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM/BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; UBCKNN (để b/c); HĐQT (để b/c); Ban TGĐ BKS (để b/c).",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. TỔNG GIÁM ĐỐC PHÓ TỔNG GIÁM ĐỐC PHỤ TRÁCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lê Hải Trà",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh N",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

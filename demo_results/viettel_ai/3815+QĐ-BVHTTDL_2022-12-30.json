@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Quy tắc ứng xử nghề nghiệp của người làm công tác thư viện",
+    "type": "string"
+  },
+  "code": {
+    "value": "3815/QĐ-BVHTTDL",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/12/2022",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ VĂN HÓA, THỂ THAO VÀ DU LỊCH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; Thủ tướng và các Phó Thủ tướng Chính phủ (để báo cáo); Ban Tuyên giáo Trung ương; Ủy ban Văn hóa Giáo dục của Quốc hội; Bộ VHTTDL Bộ trưởng các Thứ trưởng Các đơn vị thuộc Bộ; Các Bộ cơ quan ngang Bộ cơ quan thuộc Chính phủ; UBND các tỉnh thành phố trực thuộc Trung ương; Sở VHTTDL VHTTTTDL VHTT; Các Thư viện Trung tâm Thông tin-Thư viện và tương đương; Hội Thư viện Việt Nam; Cổng TTĐT Bộ VHTTDL Báo Văn hóa Báo ĐT Tổ quốc.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trịnh Thị Thủy",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

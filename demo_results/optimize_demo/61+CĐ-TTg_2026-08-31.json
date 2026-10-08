@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CÔNG ĐIỆN",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về khắc phục hậu quả vụ lật xe ô tô chở khách trên địa bàn tỉnh Gia Lai",
+    "type": "string"
+  },
+  "code": {
+    "value": "61/CĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "THỦ TƯỚNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng, PTTgTTCP Phạm Gia Túc Các Bộ: CA, XD, Y tế UBND các tỉnh, thành phố TTXVN, Đài THVN, Đài TNVN VPCP: BTCN, các PCN, trợ lý TTgCP, Các Vụ, Cục: NC, QHĐP, TH, CTTCP",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Gia Túc",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Bộ trưởng các bộ: công an, xây dựng; Chủ tịch ủy ban nhân dân tỉnh gia Lai; Chủ tịch Uy ban nhân dân các tỉnh, thành phố.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. THỦ TƯỚNG LÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

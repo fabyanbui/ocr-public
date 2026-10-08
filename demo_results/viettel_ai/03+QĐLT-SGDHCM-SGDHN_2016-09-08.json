@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định liên tịch",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Quy tắc xây dựng và quản lý Chỉ số VNX Allshare",
+    "type": "string"
+  },
+  "code": {
+    "value": "03/QĐLT-SGDHCM-SGDHN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "08/09/2016",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI/SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như điều 3; UBCKNN (để b/c); Trung tâm lưu ký chứng khoán Việt Nam.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "BỘ TÀI CHÍNH SỞ GIAO DỊCH CHỨNG KHOÁN SỞ GIAO DỊCH CHỨNG KHOÁN TP HỒ CHÍ MINH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Thành Long Trần Đắc Sinh",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh N",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

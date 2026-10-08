@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ QUYẾT",
+    "type": "string"
+  },
+  "title": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI HỘI ĐỒNG QUẢN TRỊ TỔNG CÔNG TY CỔ PHẦN TÁI BẢO HIỂM ỆVI 28914",
+    "type": "string"
+  },
+  "code": {
+    "value": "12/NQ-PVIRe",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/10/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "TỔNG CÔNG TY CỔ PHẦN TÁI BẢO HIỂM PVI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3 (để th/hiện); PVI (để b/cáo)",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Anh Duấn",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. HỘI ĐỒNG QUẢN TRỊ CHỦ TỊCH",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "02/11/2020",
+    "type": "string"
+  }
+}

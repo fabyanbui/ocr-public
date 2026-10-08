@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc điều chỉnh dự toán chi ngân sách nhà nước năm 2026 BỘ TRƯỞNG BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "code": {
+    "value": "2246/QĐ-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "17/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; Bộ trưởng ngô văn tuấn (để b/c) Các vụ: NSNN, KTN; Kiểm toán nhà nước; Kho bạc nhà nước Kho bạc nhà nước nơi giao dịch (gửi qua đơn vị sử dụng ngân sách); Cục CNTT (để công khai)",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Thị Bích Ngọc",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG; THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

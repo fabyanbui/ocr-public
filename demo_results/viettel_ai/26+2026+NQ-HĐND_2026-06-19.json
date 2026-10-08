@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Nghị quyết",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định các mức chi tổ chức các giải thi đấu thể thao cấp Thành phố và cấp xã",
+    "type": "string"
+  },
+  "code": {
+    "value": "26/2026/NQ-HĐND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "19/6/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Võ Văn Minh",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

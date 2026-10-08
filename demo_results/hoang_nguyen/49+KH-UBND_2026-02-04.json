@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "KẾ HOẠCH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Thực hiện Chủ đề năm 2026 về ?Hoàn thiện, nâng cao chất lượng tổ chức bộ máy - Khai thông thể chế - Đột phá hạ tầng Nâng cao hiệu quả phục vụ Nhân dân?",
+    "type": "string"
+  },
+  "code": {
+    "value": "49/KH-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "04/02/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "UY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Thường trực Thành ủy; Thường trực HĐND Thành phố; Đảng ủy UBND Thành phố TTUB: CT, Các PCT Ban Thường trực Ủy ban MTTQ VN Thành phố; Văn phòng Thành ủy; Các sở, ban, ngành Thành phố Các đơn vị sự nghiệp công lập thuộc TP; UBND xã, phường, đặc khu; Các doanh nghiệp nhà nước trực thuộc TP VPUB: CVP, Các PCVP; Các phòng, đơn vị, trung tâm",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM.UY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Lộc Hà",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

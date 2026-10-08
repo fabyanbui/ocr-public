@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Thông tư",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định ghi, nộp báo cáo, nhật ký khai thác thủy sản; kiểm tra tàu cá và giám sát sản lượng thủy sản tại cảng cá; danh sách tàu cá khai thác thủy sản bất hợp pháp; xác nhận nguyên liệu, chứng nhận nguồn gốc thủy sản khai thác",
+    "type": "string"
+  },
+  "code": {
+    "value": "80/2026/VBHN-TT-BNNMT",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "27/8/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN BẢN HỢP NHẤT",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Văn phòng Chính phủ (để đăng Công báo); Bộ trưởng (để b/c); Vụ Pháp chế (để đăng trên Cơ sở dữ liệu quốc; gia về pháp luật); Cổng Thông tin điện tử Chính phủ (để đăng tải); Cổng Thông tin điện tử Bộ Nông nghiệp và; Môi trường (để đăng tải).",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG XÁC THỰC VĂN BẢN HỢP NHẤT KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Võ Văn Hưng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

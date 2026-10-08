@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG TƯ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định chỉ tiêu an toàn tài chính và biện pháp xử lý đối với tổ chức kinh doanh chứng khoán không đáp ứng chỉ tiêu an toàn tài chính",
+    "type": "string"
+  },
+  "code": {
+    "value": "87/2017/TT-BTC",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "15/08/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "[26]",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Xuân Hà",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

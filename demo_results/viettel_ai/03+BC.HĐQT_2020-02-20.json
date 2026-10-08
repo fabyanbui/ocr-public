@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Thông báo",
+    "type": "string"
+  },
+  "title": {
+    "value": "\"Ngày đăng ký cuối cùng để thực hiện quyền tham dự Đại Hội đồng cổ đông thường niên năm 2020",
+    "type": "string"
+  },
+  "code": {
+    "value": "03/BC-HĐQT",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "20/02/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CÔNG TY CỔ PHẦN THỰC PHẨM BÍCH CHI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 2 (để thực hiện); BKS.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. HỘI ĐỒNG QUẢN TRỊ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Thanh Bình",
+    "type": "string"
+  },
+  "province": {
+    "value": "GIAO DỊCH CHỦNG KHOÁ\nĐồng Tháp",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "24/02/2020",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "- Trung Tâm Lưu Ký Chứng Khoán Việt Nam.",
+    "type": "string"
+  }
+}

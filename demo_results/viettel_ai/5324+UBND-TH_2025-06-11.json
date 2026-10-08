@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v triển khai thực hiện Công điện số 83/CĐ-TTg ngày 07/6/2025 của Thủ tướng Chính phủ tiếp tục đẩy mạnh phân cấp, phân quyền; phân định thẩm quyền trong các lĩnh vực",
+    "type": "string"
+  },
+  "code": {
+    "value": "5324/UBND-TH",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "11/6/2025",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Ủy ban nhân dân tỉnh Nghệ An",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; TTg các PTTg Chính phủ; Văn phòng Trung ương Đảng; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Ban Tuyên giáo và Dân vận Trung ương; VPCP BTCN các PCN Trợ lý TTg các Vụ; TH CN Cổng TTĐT.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "THỦ TƯỚNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Đặng Thanh Tùng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Nghệ An N",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Các sở, ban, ngành thuộc UBND tỉnh",
+    "type": "string"
+  }
+}

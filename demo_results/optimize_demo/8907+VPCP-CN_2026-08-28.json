@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v thực hiện nghị quyết số\n60/2022/QH15 ngày 16/6/2022 của\nQuốc hội về chủ trương đầu tư Dự án\nđầu tư xây dựng đường bộ cao tốc Châu\nĐốc - Cần Thơ - Sóc Trăng giai đoạn 1",
+    "type": "string"
+  },
+  "code": {
+    "value": "8907/VPCP-CN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN PHÒNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng, các phó thủ tướng chính phủ; Văn phòng Quốc hội; Ủy ban Kinh tế và Tài chính của Quốc hội; VPCP: BTCN, PCN Phạm Mạnh Cường, Trợ lý TTg; Các Cục, Vụ: TH, NN, KTTH, PL, QHĐP, CTTCP",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Mạnh Cường",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG, CHỦ NHIỆM Ó CHỦ NHIỆM",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

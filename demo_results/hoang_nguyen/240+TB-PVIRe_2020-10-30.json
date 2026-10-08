@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG BÁO",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ngày 03311-2020 (Về ngày đăng ký cuối cùng để thực hiện quyền)",
+    "type": "string"
+  },
+  "code": {
+    "value": "240/TB-PVIRe",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Số:",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên.; UBCKNN (để b/cáo); CT HĐQT (để b/cáo)",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TỔNG GIÁM ĐỐC; TỔNG CÔNG CỔ PHẦN TÁI BẢO H PT",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trịnh Anh Quấn",
+    "type": "string"
+  },
+  "province": {
+    "value": "",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM",
+    "type": "string"
+  }
+}

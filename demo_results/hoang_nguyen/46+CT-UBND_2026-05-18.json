@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CHỈ THỊ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc phát động thi đuathực hiện thăng lợi các nhiệm vụ, chỉ tiêu phát triển kinh tế - xã hội hằng năm và Kế hoạch 5 năm (2026 - 2030) theo Nghị quyết Đại hội Đảng bộ Thành phố Hồ Chí Minh Lần thứ I (2025-2030)",
+    "type": "string"
+  },
+  "code": {
+    "value": "46/CT-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "18/05/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "NGUY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Bùi Minh Thạnh",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí của Bộ Xây dựng",
+    "type": "string"
+  },
+  "code": {
+    "value": "1432/QĐ-BXD",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "14/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ XÂY DỤNG",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điểu 3 Bộ trưởng (để b/c) Ban Tuyên giáo Trung ương Văn phòng Chính phủ Bộ Văn hóa, Thể thao và Du lịch; Các Thứ trưởng Bộ Xây dựng Đảng ủy Bộ Xây dựng Công đoàn Xây dựng Việt Nam Đoàn TNCS Hồ Chí Minh Bộ Xây dựng Các cơ quan, đơn vị thuộc Bộ Công TTĐT Chính phủ Các cơ quan thông tấn báo chí",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Danh Huy",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

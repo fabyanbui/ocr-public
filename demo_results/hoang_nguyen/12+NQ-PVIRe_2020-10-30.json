@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ QUYẾT",
+    "type": "string"
+  },
+  "title": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI Về việc chốt danh sách cổ đông để thực hiện lấy ý kiến bằng văn bản đến HỘI ĐỒNG QUẢN TRỊ",
+    "type": "string"
+  },
+  "code": {
+    "value": "12/NQ-PVIRe",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/10/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "TỔNG CÔNG TY CỔ PHẦN",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3 (để th/hiện); PVI (để b/cáo)",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. HỘI ĐỒNG QUẢN TRỊ CHỦ TỊCH; TỔNG CÔNG TY CÔ PHẦN TÁI CHO vi",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Anh Tuấn",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "02/11/2020",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

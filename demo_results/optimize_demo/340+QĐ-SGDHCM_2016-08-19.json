@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc ban hành Quy chế Công bố thông tin tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh TỔNG GIÁM ĐỐC SỞ GIAO DỊCH CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+    "type": "string"
+  },
+  "code": {
+    "value": "340/QĐ-SGDHCM",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "19/08/2016",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH SỞ GIAO DỊCH CHỨNG KHOÁN TPHCM",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như điều 3; HĐQT, BKS; UBCKNN (để báo cáo); TTLKCK",
+    "type": "string"
+  },
+  "signer": {
+    "value": "SỞ GIAO DỊCH",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "599 - TỔNG GIÁM ĐỐC",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

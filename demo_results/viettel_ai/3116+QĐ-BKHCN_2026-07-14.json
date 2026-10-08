@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định cơ cấu tổ chức của Quỹ Đổi mới công nghệ quốc gia",
+    "type": "string"
+  },
+  "code": {
+    "value": "3116/QĐ-BKHCN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "14/07/",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Bộ Khoa học và Công nghệ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 4; Bộ trưởng Vũ Hải Quân; Các Thứ trưởng; Các cơ quan đơn vị thuộc Bộ; Cổng TTĐT của Bộ KHCN.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "BỘ TRƯỞNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Vũ Hải Quân",
+    "type": "string"
+  },
+  "province": {
+    "value": "",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

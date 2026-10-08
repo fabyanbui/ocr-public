@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ QUYẾT",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc xây dựng công trình cấp bách đối với Dự án kéo dài tuyến Metro Bến Thành - Suối Tiên đến Trung tâm hành phố Đồng Nai và Cảng hàng không quốc tế Long Thành",
+    "type": "string"
+  },
+  "code": {
+    "value": "255/NQ-CP",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "17/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Ban Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ; HĐND, UBND TP. Hồ Chí Minh; HĐND, UBND TP. Đồng Nai; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Kiểm toán nhà nước; VPCP: BTCN, các PCN, Trợ lý, Thư ký TTg, các Vụ, Cục: TH, PL, KTTH, NN, QHĐP, CTTCP",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. THỦ TƯỚNG; NÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Gia Túc",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "1_HỎA TỐC",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

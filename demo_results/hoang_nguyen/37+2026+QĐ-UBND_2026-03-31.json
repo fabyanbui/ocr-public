@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Ban hành Quy định về các tiêu chí để các chủ sở hữu nhà, người sử dụng đất bị thu hồi khi thực hiện các dự án cải tạo, chính trang đô thị được mua, thuê, thuê mua nhà ở xã hội theo từng trường hợp cụ thể trên địa bàn thành phố Hà Nội",
+    "type": "string"
+  },
+  "code": {
+    "value": "37/2026/QĐ-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/03/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. UY BAN NHÂN DÂN DÂN DÂN DÂN CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

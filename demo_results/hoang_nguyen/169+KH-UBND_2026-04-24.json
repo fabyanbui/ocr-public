@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "KẾ HOẠCH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Thực hiện tổng rà soát hệ thống văn bản quy phạm pháp luật do thành phố Hà Nội ban hành",
+    "type": "string"
+  },
+  "code": {
+    "value": "169/KH-UBND",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "24/04/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "UU BAN NHÂN DÂN DÂN THÀNH PHỐ HÀ NỘI",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Bộ Tư pháp,; Thường trực Thành ủy; Thường trực HĐND Thành phố; Chủ tịch UBND Thành phố; Các PCT UBND Thành phố; Các Ban của HĐND Thành phố; Các Sở, ban, ngành Thành phố; UBND các xã, phường; ra; VPUBTP: CVP, Các PCVP, các phòng CM",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM.UY BAN NHÂN DÂN DÂN DÂN DÂN DÂN DÂN DÂN DÂN DÂN KT. CHỦ TỊCH PHA PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Xuân Lưu",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CÔNG ĐIỆN",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc thực hiện chế độ, chính sách đối với học sinh thuộc diện đối tượng chính sách, đối tượng yếu thế, có hoàn cảnh gia đình khó khăn; học sinh thuộc vùng đồng bào dân tộc thiểu số, khu vực có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn",
+    "type": "string"
+  },
+  "code": {
+    "value": "62/CĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "THỦ TƯỚNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Thủ tướng Chính phủ; PTTgCP Lê Tiến Châu; Các Bộ: GDĐT, NV, TC; Tỉnh ủy, Thành ủy, UBND các tỉnh, TP; Văn phòng Trung ương Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; VPCP: BTCN, PCN Đỗ Ngọc Huỳnh, Trợ lý TTg CTTCP, Vụ TCCV",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TỚNG JON",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Lê Minh Hưng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "1_HỎA TỐC",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Các đồng chí Bộ trưởng các Bộ: Giáo dục và Đào tạo, Tài chính, Nội vụ; Các đồng chí Bí thư Tỉnh ủy, Thành ủy, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Quyết định",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc ban hành Quy định thời gian giao dịch, biên độ dao động giá, đơn vị giao dịch, loại lệnh áp dụng tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "code": {
+    "value": "342/QĐ-SGDHCM",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "22/08/2016",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM/BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 3; UBCKNN; HĐQT BKS; CTCKTV TCNY; TTLKCKVN TVLK NHCĐTT.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TỔNG GIÁM ĐỐC",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Văn Dũng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

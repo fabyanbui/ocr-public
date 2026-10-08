@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v triển khai ý kiến chỉ đạo của đồng chí Tổng Bí thư, Chủ tịch nước đối với với với với với với với với với với với với với với với với với với với với với với với vớ tình hình triển khai Dự án Cảng hàng không quốc tế Long Thành",
+    "type": "string"
+  },
+  "code": {
+    "value": "8871/VPCP-CN",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "VĂN PHONG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; TTgCP, các Phó TTgCP (để b/c) Văn phòng Trung ương Đảng; VPCP: BTCN, các PCN, Trợ lý TTg các Vụ, Cục: TH, KTTH, NC, KGVX, NN QHĐP, CTTCP",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. BỘ TRƯỞNG, CHỦ NHIỆM",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Mạnh Cường",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

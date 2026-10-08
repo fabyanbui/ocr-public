@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v: Lưu ý việc chốt danh sách cổ đông thực hiện quyền",
+    "type": "string"
+  },
+  "code": {
+    "value": "1637/SGDHCM-NY",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "22/11/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "SỞ GIAO DỊCH CHỨNG KHOÁN TPHCM/BỘ TÀI CHÍNH",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; TTLKCK.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT. TỔNG GIÁM ĐỐC PHÓ TỔNG GIÁM ĐỐC",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Anh Đào",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thành phố Hồ Chí Minh",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Các Công ty Niêm yết",
+    "type": "string"
+  }
+}

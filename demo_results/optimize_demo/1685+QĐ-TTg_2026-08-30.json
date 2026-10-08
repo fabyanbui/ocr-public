@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc ban hành kế hoạch thực hiện kết luận số 62-KL/TW ngày 29 tháng 6 năm 2026 của Ban Bí thư về nâng cao năng suất lao động quốc gia gắn với phát triển thị trường lao động đồng bộ, hiện đại, hiệu quả trong giai đoạn mới THỦ TƯỚNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "code": {
+    "value": "1685/QĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/08/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "THỦ TƯỚNG CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Phạm Thị Thanh Trà",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KT, THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "CHỈ THỊ",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc tăng cường quản lý, nâng cao hiệu quả sử dụng và thúc đẩy giải ngân vốn ODA, vay ưu đãi nước ngoài năm 2026 và giai đoạn tiếp theo",
+    "type": "string"
+  },
+  "code": {
+    "value": "27/CT-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "25/06/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "THỦ TƯỚNG CHÍNH PHÙ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Ban Bi thư Trung ương Đảng Thủ tướng, các Phó Thủ tướng Chính phú; Các bộ, cơ quan ngang bộ HĐND, UBND các tinh, thành phố trực thuộc Trung ương, Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Hội đồng Dân tộc và các Uy ban của Quốc hội; Văn phòng Quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Uy ban Trung ương Mặt trận Tổ quốc Việt Nam; Cơ quan trung ương của các tổ chức chính trị; xã hội VPCP: BTCN, các PCN, Trợ lý TTg, cục Vụ, Cục: Vụ, Cục: KTTH, CN, NN, KGVX, PL, QHĐP. TH, CTTCP",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "KITHỦ TƯỚNG PHÓ THỦ TƯỚNG",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Văn Thắng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Nghị quyết",
+    "type": "string"
+  },
+  "title": {
+    "value": "Về việc thành lập Ban Tổ chức Diễn đàn về xây dựng pháp luật lần thứ 2 và nhiệm vụ, quyền hạn của các thành viên",
+    "type": "string"
+  },
+  "code": {
+    "value": "424/NQ-UBTVQH16",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "28/8/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Ủy ban Thường vụ Quốc hội",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như Điều 2; UBTVQH; HĐDT các UB của QH VPQH; Các vụ đơn vị trực thuộc HĐDT UB của; QH VPQH.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ỦY BAN THƯỜNG VỤ QUỐC HỘI CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trần Thanh Mẫn",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

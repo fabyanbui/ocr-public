@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Công văn",
+    "type": "string"
+  },
+  "title": {
+    "value": "V/v tăng cường các biện pháp giảm thiểu nguy cơ cháy, nổ trong mùa nắng, nóng năm 2026",
+    "type": "string"
+  },
+  "code": {
+    "value": "1972/UBND-KT",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "09/5/2026",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "Ủy ban nhân dân Thành phố Hà Nội",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên; Chủ tịch UBND thành phố; Các PCT UBND thành phố; Bộ Công Thương (Cục KTAT); VPUBTP CVP PCVP (NT Minh) KT TH.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trương Việt Dũng",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "- Sở Công Thương; - Ủy ban nhân dân các xã, phường; - Tổng công ty Điện lực Hà Nội.",
+    "type": "string"
+  }
+}

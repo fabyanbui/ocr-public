@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Phê duyệt Lộ trình phát triển thị trường trái phiếu giai đoạn 2017 - 2020, tầm nhin đến năm 2030",
+    "type": "string"
+  },
+  "code": {
+    "value": "1191/QĐ-TTg",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "14/08/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "THÙ TƯỚNG CHÍNH PHÚNH PHÚ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Ban Bi thư Trung ương Đảng, Thủ tướng, các Phó Thủ tướng Chính phủ Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ HĐND, UBND các tỉnh, thành phố trựng ương Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư Văn phòng Chủ tịch nước Hội đồng dân tộc và các Ủy ban của Quốc hội Văn phòng Quốc hội Tòa án nhân dân tối cao Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Uy ban Giám sát tài chính Quốc gia Ngân hàng Chính sách Xã hội Ngân hàng Phát triên Việt Nam Uy ban trung ương Mặt trận Tố quốc Việt Nam Cơ quan trung ương của các đoàn thê; VPCP BTCN, Các PCN, Trợ ly TTg, TGĐ Công TTĐT các Vu, Cục, đơn vị trực thuộc, Công báo",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Nguyễn Xuân Phúc",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "QUYẾT ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "sở giao dịch chứng kyề việc sửa đổi Quy chế hướng dẫn giao dịch ký quỹ chứng khoán STP.HỒ CHÍ MINH số 4203.9",
+    "type": "string"
+  },
+  "code": {
+    "value": "1205QU-UBCK",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "27/01/2017",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "BỘ TÀI CHÍNH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  }
+}

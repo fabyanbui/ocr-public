@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "NGHỊ ĐỊNH",
+    "type": "string"
+  },
+  "title": {
+    "value": "Quy định chi tiết thi hành một số điều của Luật Chứng khoán",
+    "type": "string"
+  },
+  "code": {
+    "value": "155/2020/NĐ-CP",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "31/12/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CHÍNH PHỦ",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Ban Bí thư Trung ương Đảng; Thủ tướng, các phó thủ tướng chính phủ; Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; Văn phòng trung ương và các ban của Đảng; Văn phòng tổng bí thư; Văn phòng chủ tịch nước; Hội đồng Dân tộc và các Ủy ban của Quốc hội; Văn phòng Quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban Giám sát tài chính Quốc gia; Ngân hàng chính sách xã hội; Ngân hàng phát triển việt nam; Ủy ban trung ương mặt trận tố quốc việt nam; Cơ quan trung ương của các đoàn thể; VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các vụ, cục, đơn vị trực thuộc, công báo",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Xuân Phúc",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TM. CHÍNH PHỦ PHỦ TƯỚNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "Hà Nội",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}

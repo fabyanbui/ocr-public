@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "Thông báo",
+    "type": "string"
+  },
+  "title": {
+    "value": "(Về ngày đăng ký cuối cùng để thực hiện quyền chi trả trái tức kỳ thứ 5 của mã trái phiếu TNG119007)",
+    "type": "string"
+  },
+  "code": {
+    "value": "48/CV/TNG",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "06/01/2021",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ THƯƠNG MẠI TNG 203",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên.",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ THƯƠNG MẠI TNG NGƯỜI ĐẠI ĐIỆN PHÁP LUẬT CÔN 0 HỌ TÊN, ĐÓNG DẤU CHỦ TỊCH",
+    "type": "string"
+  },
+  "signer": {
+    "value": "NGUYỄN VĂN THỜI",
+    "type": "string"
+  },
+  "province": {
+    "value": "Thái Nguyên",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "27/09/2026",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "Trung tâm Lưu ký Chứng khoán Việt Nam 004 34",
+    "type": "string"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "type": {
+    "value": "THÔNG BÁO",
+    "type": "string"
+  },
+  "title": {
+    "value": "(Về ngày đăng ký cuối cùng để thực hiện quyền)",
+    "type": "string"
+  },
+  "code": {
+    "value": "2.4D...TB-PVIRe",
+    "type": "string"
+  },
+  "documentDate": {
+    "value": "30/10/2020",
+    "type": "string"
+  },
+  "officeSender": {
+    "value": "SỞ CHO DỊCH CHỨNG KHOÁN HÀ NỘI Hà Nội, ngày 30 tháng 10 năm 2020",
+    "type": "string"
+  },
+  "recipients": {
+    "value": "Như trên.; UBCKNN (để b/cáo); CT HĐQT (để b/cáo)",
+    "type": "string"
+  },
+  "signer": {
+    "value": "Trịnh Anh Quấn; CÔNG CỔ PHẨT TÁI BẢO HIẾM",
+    "type": "string"
+  },
+  "priority_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "security_level": {
+    "value": "0_BÌNH THƯỜNG",
+    "type": "string"
+  },
+  "first_recipients": {
+    "value": "TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM",
+    "type": "string"
+  },
+  "signer_title": {
+    "value": "TỔNG GIÁM ĐỐC; 86 TỔNG",
+    "type": "string"
+  },
+  "province": {
+    "value": "",
+    "type": "string"
+  },
+  "receiverDate": {
+    "value": "",
+    "type": "string"
+  }
+}
