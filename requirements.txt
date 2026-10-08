@@ -1,0 +1,17 @@
+# requirements.txt — chạy notebooks_v1/8_merge.py (Python 3.10)
+surya-ocr
+onnxruntime
+PyMuPDF
+opencv-python-headless
+pyyaml
+psutil
+huggingface_hub
+torch
+torchvision
+pillow
+numpy
+einops
+gdown
+albumentations
+lmdb
+scikit-image
