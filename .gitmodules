@@ -1,0 +1,9 @@
+[submodule "models/surya_layout2"]
+	path = models/surya_layout2
+	url = https://huggingface.co/datalab-to/surya_layout2
+[submodule "models/vietocr"]
+	path = models/vietocr
+	url = https://github.com/pbcquoc/vietocr.git
+[submodule "models/PP-OCRv6_medium_det_onnx"]
+	path = models/PP-OCRv6_medium_det_onnx
+	url = https://huggingface.co/PaddlePaddle/PP-OCRv6_medium_det_onnx
