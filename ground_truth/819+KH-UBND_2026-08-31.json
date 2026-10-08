@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Giáo dục - Đào tạo",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT tỉnh Nghệ An",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.nghean.gov.vn/?pageid=71897&p_steering=144276",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "KẾ HOẠCH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Tổ chức Lễ Khai giảng năm học 2026 - 2027, Lễ khánh thành các trường phổ thông nội trú liên cấp tại các xã biên giới đất liền và tổ chức trao Quyết định thành lập Trường Phổ thông Trần Quốc Hoàn",
+            "type": "string"
+        },
+        "code": {
+            "value": "819/KH-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "31/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Văn phòng Chính phủ (b/c); Văn phòng Bộ GD&ĐT (b/c); Chủ tịch UBND tỉnh; Các Phó Chủ tịch UBND tỉnh; Văn phòng Tỉnh ủy; UBMTTQ VN tỉnh; Văn phòng UBND tỉnh; Các sở, ngành, ban ngành cấp tỉnh; Báo và PTTH Nghệ An.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Thái Văn Thành",
+            "type": "string"
+        },
+        "province": {
+            "value": "Nghệ An",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

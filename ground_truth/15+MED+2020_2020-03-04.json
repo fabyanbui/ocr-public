@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "THÔNG BÁO",
+            "type": "string"
+        },
+        "title": {
+            "value": "V/v : Chốt ngày đăng ký cuối cùng (Về ngày đăng ký cuối cùng để thực hiện quyền chốt danh sách họp đại hội đồng cổ đông năm 2020 )",
+            "type": "string"
+        },
+        "code": {
+            "value": "15/MED/2020",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "04/03/2020",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CÔNG TY CỔ PHẦN DƯỢC TRUNG ƯƠNG MEDIPLANTEX",
+            "type": "string"
+        },
+        "recipients": {
+            "value": null,
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TỔNG GIÁM ĐỐC",
+            "type": "string"
+        },
+        "signer": {
+            "value": "TRẦN HOÀNG DŨNG",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "05/03/2020",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Trung tâm Lưu ký Chứng khoán Việt Nam.",
+            "type": "string"
+        }
+    }
+}

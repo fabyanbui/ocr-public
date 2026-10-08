@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Văn hóa - xã hội",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử Thành phố Hà Nội",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.hanoi.gov.vn/van-ban-quy-pham-phap-luat/ve-viec-quy-dinh-ve-day-them-hoc-them-tren-dia-ban-thanh-pho-ha-noi-250955",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc quy định về dạy thêm, học thêm trên địa bàn thành phố Hà Nội",
+            "type": "string"
+        },
+        "code": {
+            "value": "61/2026/QĐ-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "01/06/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Khoản 2 Điều 11; Các Bộ: GDĐT, Tư pháp; Thường trực Thành ủy; Thường trực HĐND TP; Chủ tịch UBND Thành phố; Cục KTVB&TCTHPL (Bộ Tư pháp); Các Phó Chủ tịch UBND Thành phố; VPUB: CVP, các PCVP; Ph.VHXH, TH; Các trường ĐH, CĐ trên địa bàn HN; Trung tâm Truyền thông, Dữ liệu và Công nghệ số thành phố Hà Nội.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Vũ Thu Hà",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

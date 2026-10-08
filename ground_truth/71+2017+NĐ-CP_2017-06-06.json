@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán TP.HCM (HSX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.hsx.vn/vi/van-ban-phap-quy/detail/1281240",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "HƯỚNG DẪN VỀ QUẢN TRỊ CÔNG TY ÁP DỤNG ĐỐI VỚI CÔNG TY ĐẠI CHÚNG",
+            "type": "string"
+        },
+        "code": {
+            "value": "71/2017/NĐ-CP",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "06/06/2017",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CHÍNH PHỦ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Ban Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Hội đồng dân tộc và các Ủy ban của Quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban Giám sát tài chính Quốc gia; Ngân hàng Chính sách xã hội; Ngân hàng Phát triển Việt Nam; Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; Cơ quan trung ương của các đoàn thể; VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": null,
+            "type": "string"
+        },
+        "signer": {
+            "value": null,
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

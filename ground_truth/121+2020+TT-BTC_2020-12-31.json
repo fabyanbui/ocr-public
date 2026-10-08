@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán TP.HCM (HSX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.hsx.vn/vi/van-ban-phap-quy/detail/2428378",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "THÔNG TƯ",
+            "type": "string"
+        },
+        "title": {
+            "value": "Quy định về hoạt động của công ty chứng khoán",
+            "type": "string"
+        },
+        "code": {
+            "value": "121/2020/TT-BTC",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "31/12/2020",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ TÀI CHÍNH",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chính phủ; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; Thủ tướng, các Phó Thủ tướng Chính phủ; Văn phòng Ban chỉ đạo TW về phòng chống tham nhũng; Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương; Viện Kiểm sát nhân dân tối cao; Toà án nhân dân tối cao; Kiểm toán Nhà nước; Cơ quan Trung ương của các Đoàn thể; Công báo; Cổng thông tin điện tử Chính phủ; Cục Kiểm tra Văn bản - Bộ Tư pháp; Các đơn vị thuộc Bộ Tài chính; Cổng thông tin điện tử Bộ Tài chính; Cổng thông tin điện tử Ủy ban Chứng khoán Nhà nước.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Huỳnh Quang Hải",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

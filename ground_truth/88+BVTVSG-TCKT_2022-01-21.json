@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG BỐ THÔNG TIN BẤT THƯỜNG",
+            "type": "string"
+        },
+        "title": {
+            "value": "Nghị quyết Hội đồng quản trị về việc điều chỉnh, sửa đổi Quy chế công bố thông tin và chấm dứt hoạt động Văn phòng đại diện CTCP Bảo vệ Thực vật Sài Gòn tại Bạc Liêu.",
+            "type": "string"
+        },
+        "code": {
+            "value": "88/BVTVSG-TCKT",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "21/01/2022",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "TỔNG CÔNG TY NÔNG NGHIỆP SÀI GÒN TNHH MỘT THÀNH VIÊN CÔNG TY CỔ PHẦN BẢO VỆ THỰC VẬT SÀI GÒN",
+            "type": "string"
+        },
+        "recipients": {
+            "value": null,
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "NGƯỜI CÔNG BỐ THÔNG TIN PHÓ GIÁM ĐỐC",
+            "type": "string"
+        },
+        "signer": {
+            "value": "ĐIÊU QUANG TRUNG",
+            "type": "string"
+        },
+        "province": {
+            "value": "Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Ủy Ban Chứng Khoán Nhà Nước; Sở Giao dịch Chứng khoán Hà Nội.",
+            "type": "string"
+        }
+    }
+}

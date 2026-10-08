@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Hành chính",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử tỉnh Nghệ An",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.nghean.gov.vn/?p_steering=61140&pageid=27160",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "KẾ HOẠCH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Kế hoạch tổ chức các hoạt động chào mừng 35 năm Ngày Biên phòng toàn dân (3/3/1989-3/3/2024)",
+            "type": "string"
+        },
+        "code": {
+            "value": "503/KH-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "06/07/2023",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Bộ Tư lệnh BĐBP, QK4; TT Tỉnh ủy, TT HĐND tỉnh; Chủ tịch, các PCT UBND tỉnh; Ban Tuyên giáo Tỉnh ủy; UBMTTQ tỉnh; Các sở, ban, ngành, đoàn thể cấp tỉnh; Chánh VP, Phó CVP UBND (NC) tỉnh; UBND các huyện, thành, thị; Cổng thông tin ĐT tỉnh.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Lê Hồng Vinh",
+            "type": "string"
+        },
+        "province": {
+            "value": "Nghệ An",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chuyển đổi số",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử Thành phố Hà Nội",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.hanoi.gov.vn/van-ban-chi-dao-dieu-hanh/ve-viec-tang-cuong-cac-bien-phap-giam-thieu-nguy-co-chay-no-trong-mua-nang-nong-nam-2026-241411",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG VĂN",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc tăng cường các biện pháp giảm thiểu nguy cơ cháy, nổ trong mùa nắng, nóng năm 2026",
+            "type": "string"
+        },
+        "code": {
+            "value": "1972/UBND-KT",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "09/05/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; Chủ tịch UBND thành phố; Các PCT UBND thành phố; Bộ Công Thương (Cục KTAT); VPUBTP: CVP, PCVP (N.T. Minh), KT, TH.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trương Việt Dũng",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Sở Công Thương; Ủy ban nhân dân các xã, phường; Tổng công ty Điện lực Hà Nội.",
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Nội chính - An ninh",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=219305",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "THÔNG TƯ",
+            "type": "string"
+        },
+        "title": {
+            "value": "Quy định tiêu chí phân loại, điều kiện thành lập, sáp nhập, hợp nhất, giải thể đơn vị sự nghiệp công lập thuộc ngành, lĩnh vực tư pháp",
+            "type": "string"
+        },
+        "code": {
+            "value": "05/2026/VBHN-TT-BTP",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "28/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ TƯ PHÁP",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Văn phòng Chính phủ (để đăng Công báo); Bộ trưởng (để báo cáo); Các Thứ trưởng (để biết); Cổng Pháp luật quốc gia; CSDL quốc gia về pháp luật (để đăng tải); Cổng Thông tin điện tử Bộ Tư pháp; Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật - Bộ Tư pháp.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Thanh Tịnh",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

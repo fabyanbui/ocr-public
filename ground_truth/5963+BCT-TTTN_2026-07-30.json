@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Công thương - Thị trường",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Bộ Công Thương",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://moit.gov.vn/upload/2005517/20260730/cv_5963_die____u_ha__nh_nga__y_30_7_2026_2a743.pdf",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG VĂN",
+            "type": "string"
+        },
+        "title": {
+            "value": "V/v thông báo điều hành giá bán xăng dầu",
+            "type": "string"
+        },
+        "code": {
+            "value": "5963/BCT-TTTN",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "30/07/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ CÔNG THƯƠNG",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; Lãnh đạo Bộ Công Thương (b/c); Lãnh đạo Bộ Tài chính (b/c); Ngân hàng Nhà nước Việt Nam; Cục Quản lý giá - Bộ Tài chính; Các NHTM nơi thương nhân mở tài khoản Quỹ BOG xăng dầu; CT Trần Hữu Linh; Sở Công Thương các tỉnh, thành phố; Hiệp hội Xăng dầu Việt Nam.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TL. BỘ TRƯỞNG KT. CỤC TRƯỞNG CỤC QUẢN LÝ VÀ PHÁT TRIỂN THỊ TRƯỜNG TRONG NƯỚC PHÓ CỤC TRƯỞNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Thúy Hiền",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "1_HỎA TỐC",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Các thương nhân đầu mối kinh doanh xăng dầu; Các thương nhân phân phối xăng dầu.",
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG VĂN",
+            "type": "string"
+        },
+        "title": {
+            "value": "V/v: Công bố thông tin Nghị quyết Đại hội đồng cổ đông",
+            "type": "string"
+        },
+        "code": {
+            "value": "270/PVIRe-HĐ",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "04/12/2020",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "Tổng công ty cổ phần Tái bảo hiểm PVI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "NGƯỜI ỦY QUYỀN CBTT GIÁM ĐỐC KHỐI HOẠT ĐỘNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Phan Trịnh Quốc Kiên",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "07/12/2020",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC; SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI (HNX).",
+            "type": "string"
+        }
+    }
+}

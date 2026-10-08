@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "THÔNG BÁO",
+            "type": "string"
+        },
+        "title": {
+            "value": "(Về ngày đăng ký cuối cùng để thực hiện quyền chi trả trái tức kỳ thứ 5 của mã trái phiếu TNG119007)",
+            "type": "string"
+        },
+        "code": {
+            "value": "48/CV/TNG",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "06/01/2021",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ THƯƠNG MẠI TNG",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ THƯƠNG MẠI TNG NGƯỜI ĐẠI ĐIỆN PHÁP LUẬT",
+            "type": "string"
+        },
+        "signer": {
+            "value": "NGUYỄN VĂN THỜI",
+            "type": "string"
+        },
+        "province": {
+            "value": "Thái Nguyên",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "08/01/2021",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Trung tâm Lưu ký Chứng khoán Việt Nam.",
+            "type": "string"
+        }
+    }
+}

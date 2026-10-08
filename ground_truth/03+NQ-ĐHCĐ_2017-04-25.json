@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ QUYẾT",
+            "type": "string"
+        },
+        "title": {
+            "value": "ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN NĂM 2017",
+            "type": "string"
+        },
+        "code": {
+            "value": "03/NQ-ĐHCĐ",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "25/4/2017",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CÔNG TY CỔ PHẦN DU LỊCH - THƯƠNG MẠI TN",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Cổ đông.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ĐOÀN CHỦ TỊCH CHỦ TỌA",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Lê Hữu Phước",
+            "type": "string"
+        },
+        "province": {
+            "value": "Tây Ninh",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "27/04/2017",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

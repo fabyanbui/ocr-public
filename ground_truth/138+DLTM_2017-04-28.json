@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG VĂN",
+            "type": "string"
+        },
+        "title": {
+            "value": "V/v Báo cáo giải trình lợi nhuận Q1/2017 tăng so với lợi nhuận Q1/2016",
+            "type": "string"
+        },
+        "code": {
+            "value": "138/DLTM",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "28/4/2017",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CÔNG TY CỔ PHẦN DU LỊCH - THƯƠNG MẠI TÂY NINH",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; SGDCKHN.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TỔNG GIÁM ĐỐC",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trần Anh Minh",
+            "type": "string"
+        },
+        "province": {
+            "value": "Tây Ninh",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "03/05/2017",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Ủy Ban Chứng khoán Nhà nước.",
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Tài chính - Ngân sách",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=219330",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ QUYẾT",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về giảm thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp đối với cá nhân và doanh nghiệp",
+            "type": "string"
+        },
+        "code": {
+            "value": "43/2026/QH16",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "24/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "QUỐC HỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": null,
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "CHỦ TỊCH QUỐC HỘI",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trần Thanh Mẫn",
+            "type": "string"
+        },
+        "province": {
+            "value": null,
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

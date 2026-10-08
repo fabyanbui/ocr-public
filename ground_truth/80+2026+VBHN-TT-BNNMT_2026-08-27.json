@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Nông nghiệp - Môi trường",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=219315",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "THÔNG TƯ",
+            "type": "string"
+        },
+        "title": {
+            "value": "Quy định ghi, nộp báo cáo, nhật ký khai thác thủy sản; kiểm tra tàu cá và giám sát sản lượng thủy sản tại cảng cá; danh sách tàu cá khai thác thủy sản bất hợp pháp; xác nhận nguyên liệu, chứng nhận nguồn gốc thủy sản khai thác",
+            "type": "string"
+        },
+        "code": {
+            "value": "80/2026/VBHN-TT-BNNMT",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "27/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Văn phòng Chính phủ (để đăng Công báo); Bộ trưởng (để b/c); Vụ Pháp chế (để đăng trên Cơ sở dữ liệu quốc gia về pháp luật); Cổng Thông tin điện tử Chính phủ (để đăng tải); Cổng Thông tin điện tử Bộ Nông nghiệp và Môi trường (để đăng tải).",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Võ Văn Hưng",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

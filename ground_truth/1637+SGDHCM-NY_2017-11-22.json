@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán TP.HCM (HSX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.hsx.vn/vi/van-ban-phap-quy/detail/1281214",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG VĂN",
+            "type": "string"
+        },
+        "title": {
+            "value": "V/v: Lưu ý việc chốt danh sách cổ đông thực hiện quyền",
+            "type": "string"
+        },
+        "code": {
+            "value": "1637/SGDHCM-NY",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "22/11/2017",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ TÀI CHÍNH SỞ GIAO DỊCH CHỨNG KHOÁN TPHCM",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; TTLKCK.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. TỔNG GIÁM ĐỐC PHÓ TỔNG GIÁM ĐỐC",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trần Anh Đào",
+            "type": "string"
+        },
+        "province": {
+            "value": "Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Các Công ty Niêm yết.",
+            "type": "string"
+        }
+    }
+}

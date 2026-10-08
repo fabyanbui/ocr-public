@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Giao thông vận tải",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=219352",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG VĂN",
+            "type": "string"
+        },
+        "title": {
+            "value": "V/v bảo đảm an toàn giao thông và quy định xử phạt vi phạm giao thông trong lĩnh vực đường bộ",
+            "type": "string"
+        },
+        "code": {
+            "value": "8948/VPCP-CN",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "01/09/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "VĂN PHÒNG CHÍNH PHỦ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; Thủ tướng Chính phủ (để b/c); Các Phó Thủ tướng Chính phủ (để b/c); Các Bộ: Công an, Xây dựng; VPCP: BTCN, các PCN; Các Vụ, Cục: NC, QHĐP, CTTCP.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. BỘ TRƯỞNG CHỦ NHIỆM PHÓ CHỦ NHIỆM",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Phạm Mạnh Cường",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Bộ trưởng các Bộ: Công an, Xây dựng; Chủ tịch UBND các tỉnh, thành phố trực thuộc Trung ương.",
+            "type": "string"
+        }
+    }
+}

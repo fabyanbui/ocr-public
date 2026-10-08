@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "THÔNG BÁO",
+            "type": "string"
+        },
+        "title": {
+            "value": "(Về ngày đăng ký cuối cùng để thực hiện quyền)",
+            "type": "string"
+        },
+        "code": {
+            "value": "240/TB-PVIRe",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "30/10/2020",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "TỔNG CÔNG TY CỔ PHẦN TÁI BẢO HIỂM PVI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; UBCKNN (để b/cáo); CT HĐQT (để b/cáo).",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TỔNG GIÁM ĐỐC",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trịnh Anh Tuấn",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "03/11/2020",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "TRUNG TÂM LƯU KÝ CHỨNG KHOÁN VIỆT NAM.",
+            "type": "string"
+        }
+    }
+}

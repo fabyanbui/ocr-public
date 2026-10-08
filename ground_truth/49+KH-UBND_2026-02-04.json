@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Kinh tế - Xã hội",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://dxcenter.hochiminhcity.gov.vn/van-ban/van-ban-cua-thanh-pho-ho-chi-minh/ke-hoach-so-49kh-ubnd-ngay-04022026-cua-uy-ban-nhan-dan-thanh-pho-ho-chi-minh-ve-thuc-hien-chu-de-nam-2026-hoan-thien-nang-cao-chat-luong-to-chuc-bo-may-khai-thong-the-che-dot-pha-ha-tang-nang-cao-hieu-qua-phuc-vu-nhan-dan/",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "KẾ HOẠCH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Thực hiện Chủ đề năm 2026 về “Hoàn thiện, nâng cao chất lượng tổ chức bộ máy - Khai thông thể chế - Đột phá hạ tầng - Nâng cao hiệu quả phục vụ Nhân dân”",
+            "type": "string"
+        },
+        "code": {
+            "value": "49/KH-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "04/02/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Thường trực Thành ủy; Thường trực HĐND Thành phố; Đảng ủy UBND Thành phố; TTUB: CT, các PCT; Ban Thường trực Ủy ban MTTQ VN Thành phố; Văn phòng Thành ủy; Các sở, ban, ngành Thành phố; Các đơn vị sự nghiệp công lập thuộc TP; UBND xã, phường, đặc khu; Các doanh nghiệp nhà nước trực thuộc TP; VPUB: CVP, các PCVP; Các phòng, đơn vị, trung tâm.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Lộc Hà",
+            "type": "string"
+        },
+        "province": {
+            "value": "Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

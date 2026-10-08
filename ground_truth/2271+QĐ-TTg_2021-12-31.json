@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Nội vụ - Cán bộ",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://chinhphu.vn/?pageid=27160&docid=204984",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc thi hành kỷ luật đối với ông Nguyễn Trường Sơn, Thứ trưởng Bộ Y tế",
+            "type": "string"
+        },
+        "code": {
+            "value": "2271/QĐ-TTg",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "31/12/2021",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "THỦ TƯỚNG CHÍNH PHỦ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 3; Ban Bí thư (để b/c); Thủ tướng, các Phó Thủ tướng Chính phủ; Ủy ban Kiểm tra Trung ương; Ban Tổ chức Trung ương; Đảng ủy Khối các cơ quan Trung ương; Các Bộ: Nội vụ, Y tế; VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, VPBCSĐ(3).",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Phạm Bình Minh",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "06/01/2022",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

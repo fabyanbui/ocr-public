@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "THÔNG BÁO",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về ngày đăng ký cuối cùng lập danh sách cổ đông CTCP Cấp nước Gia Định(MCK: GDW)",
+            "type": "string"
+        },
+        "code": {
+            "value": "/TB-QLNY",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "11/12/2018",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "PHÒNG QUẢN LÝ NIÊM YẾT",
+            "type": "string"
+        },
+        "recipients": {
+            "value": null,
+            "type": "string"
+        },
+        "signer_title": {
+            "value": null,
+            "type": "string"
+        },
+        "signer": {
+            "value": null,
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

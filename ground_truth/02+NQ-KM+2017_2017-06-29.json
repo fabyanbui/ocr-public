@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ QUYẾT",
+            "type": "string"
+        },
+        "title": {
+            "value": "ĐẠI HỘI ĐỒNG CỔ ĐÔNG THƯỜNG NIÊN NĂM 2017 CÔNG TY CỔ PHẦN GẠCH KHANG MINH",
+            "type": "string"
+        },
+        "code": {
+            "value": "02/NQ-KM/2017",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "29/06/2017",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CÔNG TY CỔ PHẦN GẠCH KHANG MINH",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "TGĐ (để thực hiện); Các Ủy viên HĐQT; Các thành viên BKS.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "T/M ĐẠI HỘI ĐỒNG CỔ ĐÔNG CHỦ TỊCH HĐQT",
+            "type": "string"
+        },
+        "signer": {
+            "value": "ĐẶNG VIỆT LÊ",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nam",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "03/07/2017",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán TP.HCM (HSX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.hsx.vn/vi/van-ban-phap-quy/detail/1641859",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán",
+            "type": "string"
+        },
+        "code": {
+            "value": "156/2020/NĐ-CP",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "31/12/2020",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CHÍNH PHỦ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Ban Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Hội đồng Dân tộc và các Ủy ban của Quốc hội; Văn phòng Quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban Giám sát tài chính Quốc gia; Ngân hàng Chính sách Xã hội; Ngân hàng Phát triển Việt Nam; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Cơ quan trung ương của các đoàn thể; VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. CHÍNH PHỦ THỦ TƯỚNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Xuân Phúc",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

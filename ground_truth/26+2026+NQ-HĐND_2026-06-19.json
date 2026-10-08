@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Văn hóa - Thể thao và Du lịch",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://congbao.hochiminhcity.gov.vn/cong-bao/van-ban/nghi-quyet/so/26-2026-nq-hdnd/ngay/19-06-2026/49525?cbid=49647",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ QUYẾT",
+            "type": "string"
+        },
+        "title": {
+            "value": "Quy định các mức chi tổ chức các giải thi đấu thể thao cấp Thành phố và cấp xã",
+            "type": "string"
+        },
+        "code": {
+            "value": "26/2026/NQ-HĐND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "19/06/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+            "type": "string"
+        },
+        "recipients": {
+            "value": null,
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Võ Văn Minh",
+            "type": "string"
+        },
+        "province": {
+            "value": "Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

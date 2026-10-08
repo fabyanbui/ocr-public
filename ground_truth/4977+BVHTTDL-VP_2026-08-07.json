@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Văn hóa - Thể thao - Du lịch",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Bộ Văn hóa, Thể thao và Du lịch",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://bvhttdl.gov.vn/uploads/pdf/2026/08/10/cv-4977.pdf",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG VĂN",
+            "type": "string"
+        },
+        "title": {
+            "value": "V/v trả lời kiến nghị của cử tri gửi tới sau Kỳ họp thứ nhất, Quốc hội khóa XVI",
+            "type": "string"
+        },
+        "code": {
+            "value": "4977/BVHTTDL-VP",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "07/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ VĂN HÓA, THỂ THAO VÀ DU LỊCH",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; Thủ tướng Chính phủ (để báo cáo); Phó Thủ tướng Chính phủ (để báo cáo); Đoàn Chủ tịch UBTƯMTTQ Việt Nam; Ủy ban Dân nguyện và Giám sát của Quốc hội; HĐND, UBND tỉnh Tây Ninh; Văn phòng Quốc hội; Văn phòng Chính phủ; Bộ VHTTDL: Bộ trưởng, các Thứ trưởng; Cục NTBD; Vụ PC; Cổng TTĐT Bộ.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "BỘ TRƯỞNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Lâm Thị Phương Thanh",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Đoàn Đại biểu Quốc hội tỉnh Tây Ninh.",
+            "type": "string"
+        }
+    }
+}

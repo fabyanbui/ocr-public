@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Đô thị",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử Thành phố Hà Nội",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.hanoi.gov.vn/van-ban/ve-viec-ban-hanh-quy-trinh-cong-nghe-va-dinh-muc-kinh-te-ky-thuat-cong-tac-quan-ly-bao-tri-he-thong-255397",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc ban hành Quy trình công nghệ và Định mức kinh tế - kỹ thuật công tác quản lý, bảo trì hệ thống camera, hệ thống thiết bị trung tâm và thiết bị ngoại vi trên địa bàn thành phố Hà Nội",
+            "type": "string"
+        },
+        "code": {
+            "value": "69/2026/QĐ-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "18/06/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 3; Bộ Xây dựng; Thường trực HĐND Thành phố; Chủ tịch UBND Thành phố; Các Phó Chủ tịch UBND Thành phố; Cục KTVB và QLXLVPHC - Bộ Tư pháp; Các sở, ban, ngành Thành phố; Văn phòng Đoàn ĐBQH và HĐND TP Hà Nội; UBND các xã, phường; VP UBND TP: CVP, các PCVP, các PCM; Trung tâm TT, DL và Công nghệ số thành phố HN.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trương Việt Dũng",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Nông thôn mới",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử tỉnh Nghệ An",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.nghean.gov.vn/?p_steering=116544&pageid=71897",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc phê duyệt Chương trình khuyến nông tỉnh Nghệ An giai đoạn 2026-2030",
+            "type": "string"
+        },
+        "code": {
+            "value": "2472/QĐ-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "01/08/2025",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như điều 3; Bộ Nông nghiệp và Môi trường; Chủ tịch UBND tỉnh; Phó Chủ tịch UBND tỉnh; PCVP (KT) UBND tỉnh.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Văn Đệ",
+            "type": "string"
+        },
+        "province": {
+            "value": "Nghệ An",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

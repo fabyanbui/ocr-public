@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Tài chính - Ngân sách",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Bộ Tài chính",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vbpq.mof.gov.vn/Detail?contentType=LegalDocument_VBDH&id=611870&tab=4",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc điều chỉnh dự toán chi ngân sách nhà nước năm 2026",
+            "type": "string"
+        },
+        "code": {
+            "value": "2246/QĐ-BTC",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "17/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ TÀI CHÍNH",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 3; Bộ trưởng Ngô Văn Tuấn (để b/c); Các Vụ: NSNN, KTN; Kiểm toán Nhà nước; Kho bạc Nhà nước; Kho bạc Nhà nước nơi giao dịch (gửi qua đơn vị sử dụng ngân sách); Cục CNTT (để công khai).",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. BỘ TRƯỞNG THỨ TRƯỞNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Thị Bích Ngọc",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

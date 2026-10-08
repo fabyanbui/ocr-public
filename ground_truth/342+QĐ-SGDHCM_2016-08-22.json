@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán TP.HCM (HSX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.hsx.vn/vi/van-ban-phap-quy/detail/1281517",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc ban hành Quy định thời gian giao dịch, biên độ dao động giá, đơn vị giao dịch, loại lệnh áp dụng tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "code": {
+            "value": "342/QĐ-SGDHCM",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "22/08/2016",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ TÀI CHÍNH SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 3; UBCKNN; HĐQT, BKS; CTCKTV, TCNY; TTLKCKVN, TVLK, NHCĐTT.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TỔNG GIÁM ĐỐC",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trần Văn Dũng",
+            "type": "string"
+        },
+        "province": {
+            "value": "Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "THÔNG BÁO",
+            "type": "string"
+        },
+        "title": {
+            "value": "“Ngày đăng ký cuối cùng để thực hiện quyền tham dự Đại Hội đồng cổ đông thường niên năm 2020”",
+            "type": "string"
+        },
+        "code": {
+            "value": "03/BC.HĐQT",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "20/02/2020",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CÔNG TY CỔ PHẦN THỰC PHẨM BÍCH CHI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; UBCKNN, HNX “để báo cáo”.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "ĐẠI DIỆN PHÁP LUẬT Chủ tịch HĐQT kiêm Tổng Giám đốc",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Phạm Thanh Bình",
+            "type": "string"
+        },
+        "province": {
+            "value": "Đồng Tháp",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "24/02/2020",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Trung Tâm Lưu Ký Chứng Khoán Việt Nam.",
+            "type": "string"
+        }
+    }
+}

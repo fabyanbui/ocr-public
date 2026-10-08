@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "An toàn giao thông",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử tỉnh Nghệ An",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://nghean.gov.vn/?p_steering=75441&pageid=27160",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CÔNG ĐIỆN",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc bảo đảm trật tự, an toàn giao thông phục vụ nhu cầu đi lại của Nhân dân trong dịp nghỉ Lễ Quốc khánh 02/9/2024 và khai giảng năm học mới 2024-2025",
+            "type": "string"
+        },
+        "code": {
+            "value": "32/CĐ-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "28/08/2024",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như trên; Chủ tịch UBND tỉnh; Phó Chủ tịch TT UBND tỉnh; CVP, PVP NC UBND tỉnh; Các sở, ban, ngành cấp tỉnh; UBND các huyện, thành, thị; Báo Nghệ An, Đài PT&TH; Cổng Thông tin điện tử.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Lê Hồng Vinh",
+            "type": "string"
+        },
+        "province": {
+            "value": "Nghệ An",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "1_HỎA TỐC",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": "Giám đốc các sở, Thủ trưởng các ban, ngành cấp tỉnh; Chủ tịch UBND các huyện, thành phố, thị xã.",
+            "type": "string"
+        }
+    }
+}

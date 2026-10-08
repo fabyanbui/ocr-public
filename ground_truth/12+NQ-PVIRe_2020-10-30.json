@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán Hà Nội (HNX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://portal.hnx.vn/thong-tin-cong-bo-ny-tcphchuagd.html",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ QUYẾT",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc chốt danh sách cổ đông để thực hiện lấy ý kiến bằng văn bản",
+            "type": "string"
+        },
+        "code": {
+            "value": "12/NQ-PVIRe",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "30/10/2020",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "TỔNG CÔNG TY CỔ PHẦN TÁI BẢO HIỂM PVI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 3 (để th/hiện); PVI (để b/cáo).",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. HỘI ĐỒNG QUẢN TRỊ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Anh Tuấn",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "02/11/2020",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

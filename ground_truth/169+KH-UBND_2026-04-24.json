@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Nội chính",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử Thành phố Hà Nội",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.hanoi.gov.vn/van-ban-chi-dao-dieu-hanh/ke-hoach-thuc-hien-tong-ra-soat-he-thong-van-ban-quy-pham-phap-luat-do-thanh-pho-ha-noi-ban-hanh-240773",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "KẾ HOẠCH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Kế hoạch thực hiện tổng rà soát hệ thống văn bản quy phạm pháp luật do thành phố Hà Nội ban hành",
+            "type": "string"
+        },
+        "code": {
+            "value": "169/KH-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "24/04/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Bộ Tư pháp; Thường trực Thành ủy; Thường trực HĐND Thành phố; Chủ tịch UBND Thành phố; Các PCT UBND Thành phố; Các Ban của HĐND Thành phố; Các Sở, ban, ngành Thành phố; UBND các xã, phường; VPUBTP: CVP, các PCVP, các phòng CM.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Xuân Lưu",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

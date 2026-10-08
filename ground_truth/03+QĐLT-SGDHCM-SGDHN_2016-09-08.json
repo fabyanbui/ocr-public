@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán TP.HCM (HSX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.hsx.vn/vi/van-ban-phap-quy/detail/1281518",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH LIÊN TỊCH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Ban hành Quy tắc xây dựng và quản lý Chỉ số VNX Allshare",
+            "type": "string"
+        },
+        "code": {
+            "value": "03/QĐLT-SGDHCM-SGDHN",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "08/09/2016",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "SỞ GIAO DỊCH CHỨNG KHOÁN TP.HCM - SỞ GIAO DỊCH CHỨNG KHOÁN HÀ NỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như điều 3; UBCKNN (để b/c); Trung tâm lưu ký chứng khoán Việt Nam.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "SỞ GDCK HÀ NỘI TM. HỘI ĐỒNG QUẢN TRỊ CHỦ TỊCH; SỞ GDCK TP.HCM TM. HỘI ĐỒNG QUẢN TRỊ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Thành Long; Trần Đắc Sinh",
+            "type": "string"
+        },
+        "province": {
+            "value": "Thành phố Hồ Chí Minh",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

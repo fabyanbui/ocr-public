@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chứng khoán",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Sở Giao dịch Chứng khoán TP.HCM (HSX)",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.hsx.vn/vi/van-ban-phap-quy/quyet-dinh-ve-viec-sua-doi-quy-che-huong-dan-giao-dich-ky-quy-chung-khoan/1281241",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc sửa đổi Quy chế hướng dẫn giao dịch ký quỹ chứng khoán",
+            "type": "string"
+        },
+        "code": {
+            "value": "1205/QĐ-UBCK",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "27/12/2017",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ TÀI CHÍNH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 3 (để thực hiện); Lãnh đạo BTC (để báo cáo).",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trần Văn Dũng",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": "28/12/2017",
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

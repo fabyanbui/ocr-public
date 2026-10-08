@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Công bố TTHC",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử tỉnh Nghệ An",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://www.nghean.gov.vn/?p_steering=86735&pageid=71897",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Quyết định công bố Danh mục thủ tục hành chính và Quy trình nội bộ, quy trình điện tử trong giải quyết thủ tục hành chính lĩnh vực Chăn nuôi và lĩnh vực Thú y thuộc phạm vi giải quyết của Sở Nông nghiệp và Môi trường, Sở Tài chính, UBND cấp huyện trên địa bàn tỉnh Nghệ An",
+            "type": "string"
+        },
+        "code": {
+            "value": "1321/QĐ-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "12/05/2025",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 3; Cục Kiểm soát TTHC (VPCP); Bộ Nông nghiệp và Môi trường; Chủ tịch UBND tỉnh; PCT UBND tỉnh (đ/c Đệ); CVP UBND tỉnh; PCVP UBND tỉnh (đ/c Thiện); Trung tâm Phục vụ HCC tỉnh; Cổng Thông tin điện tử tỉnh.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. CHỦ TỊCH PHÓ CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Nguyễn Văn Đệ",
+            "type": "string"
+        },
+        "province": {
+            "value": "Nghệ An",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

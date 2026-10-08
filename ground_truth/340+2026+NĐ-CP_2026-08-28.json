@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Quốc phòng - An ninh",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=219342",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Sửa đổi, bổ sung một số điều của Nghị định số 140/2004/NĐ-CP ngày 25 tháng 6 năm 2004 của Chính phủ quy định chi tiết một số điều của Luật Biên giới quốc gia",
+            "type": "string"
+        },
+        "code": {
+            "value": "340/2026/NĐ-CP",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "28/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CHÍNH PHỦ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Ban Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ; HĐND, UBND các tỉnh, thành phố; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Hội đồng Dân tộc và các Ủy ban của Quốc hội; Văn phòng Quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Cơ quan trung ương của các tổ chức chính trị - xã hội; VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục, đơn vị trực thuộc, Công báo.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Phan Văn Giang",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

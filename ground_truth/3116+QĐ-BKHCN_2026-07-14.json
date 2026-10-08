@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Tổ chức - Hành chính",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Bộ Khoa học và Công nghệ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://mst.gov.vn/van-ban-phap-luat/25467.htm",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Quy định cơ cấu tổ chức của Quỹ Đổi mới công nghệ quốc gia",
+            "type": "string"
+        },
+        "code": {
+            "value": "3116/QĐ-BKHCN",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "14/07/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "BỘ KHOA HỌC VÀ CÔNG NGHỆ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 4; Bộ trưởng Vũ Hải Quân; Các Thứ trưởng; Các cơ quan, đơn vị thuộc Bộ; Cổng TTĐT của Bộ KHCN.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "BỘ TRƯỞNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Vũ Hải Quân",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

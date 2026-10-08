@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Xây dựng - Đất đai",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=219344",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc kiện toàn Ban Chỉ đạo Trung ương về chính sách nhà ở và thị trường bất động sản",
+            "type": "string"
+        },
+        "code": {
+            "value": "1666/QĐ-TTg",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "27/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "THỦ TƯỚNG CHÍNH PHỦ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 1; Ban Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ; HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Chủ tịch nước; Hội đồng Dân tộc và các Ủy ban của Quốc hội; Văn phòng Quốc hội; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "THỦ TƯỚNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Lê Minh Hưng",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

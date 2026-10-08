@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Chuyển đổi số",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử Thành phố Hà Nội",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.hanoi.gov.vn/chi-tiet-van-ban/ve-viec-quy-dinh-chinh-sach-thuc-day-chuyen-doi-so-phat-trien-san-pham-dich-vu-cong-nghe-so-tren-di-257326",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ QUYẾT",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc quy định chính sách thúc đẩy chuyển đổi số, phát triển sản phẩm, dịch vụ công nghệ số trên địa bàn thành phố Hà Nội (Thực hiện điểm b, e khoản 2 Điều 18 Luật Thủ đô số 02/2026/QH16)",
+            "type": "string"
+        },
+        "code": {
+            "value": "59/2026/NQ-HĐND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "15/06/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Ủy ban Thường vụ Quốc hội; Chính phủ; Ủy ban Công tác đại biểu của Quốc hội; Ủy ban KH,CN và MT của Quốc hội; Văn phòng Quốc hội; Văn phòng Chính phủ; Các Bộ: Khoa học và Công nghệ, Quốc phòng, Công an, Nội vụ, Tư pháp, Tài chính; Cục KTVB và QLXLVPHC - Bộ Tư pháp; Kiểm toán nhà nước; Ban Thường vụ Thành ủy; Đoàn Đại biểu Quốc hội TP Hà Nội; Thường trực HĐND, UBND, UBMTTQ Thành phố; Các Ban Đảng Thành ủy, VPTU; Các Ban của HĐND Thành phố; Các vị Đại biểu HĐND Thành phố; Các VP: Đoàn ĐBQH&HĐND, UBND TP; Các sở, ban, ngành Thành phố; Đảng ủy các xã, phường; TT HĐND, UBND các xã, phường; Trang TTĐT của Đoàn ĐBQH và HĐND TP; Trung tâm TT, DL và CNS Thành phố.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Phùng Thị Hồng Hà",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

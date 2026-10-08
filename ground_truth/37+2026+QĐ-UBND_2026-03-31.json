@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "print",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Đô thị",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng thông tin điện tử Thành phố Hà Nội",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.hanoi.gov.vn/van-ban-quy-pham-phap-luat/ve-viec-ban-hanh-quy-dinh-ve-cac-tieu-chi-de-cac-chu-so-huu-nha-nguoi-su-dung-dat-bi-thu-hoi-khi-th-238108",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "QUYẾT ĐỊNH",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc ban hành Quy định về các tiêu chí để các chủ sở hữu nhà, người sử dụng đất bị thu hồi khi thực hiện các dự án cải tạo, chỉnh trang đô thị được mua, thuê, thuê mua nhà ở xã hội theo từng trường hợp cụ thể trên địa bàn thành phố Hà Nội",
+            "type": "string"
+        },
+        "code": {
+            "value": "37/2026/QĐ-UBND",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "31/03/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": null,
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN NHÂN DÂN CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Vũ Đại Thắng",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": "string"
+        }
+    }
+}

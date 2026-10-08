@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": false,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Nội chính - An ninh",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=219338",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ QUYẾT",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về việc thành lập Ban Tổ chức Diễn đàn về xây dựng pháp luật lần thứ 2 và nhiệm vụ, quyền hạn của các thành viên",
+            "type": "string"
+        },
+        "code": {
+            "value": "424/NQ-UBTVQH16",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "28/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "ỦY BAN THƯỜNG VỤ QUỐC HỘI",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Như Điều 2; UBTVQH; HĐDT, các UB của QH, VPQH; Các vụ, đơn vị trực thuộc HĐDT, UB của QH, VPQH.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. ỦY BAN THƯỜNG VỤ QUỐC HỘI CHỦ TỊCH",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Trần Thanh Mẫn",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

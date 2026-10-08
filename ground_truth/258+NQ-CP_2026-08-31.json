@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "Tổ chức - Hành chính",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=219353",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "NGHỊ QUYẾT",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về nhiệm vụ, giải pháp chủ yếu đẩy mạnh công tác cải cách thủ tục hành chính, góp phần thúc đẩy tăng trưởng hai con số giai đoạn 2026 - 2030",
+            "type": "string"
+        },
+        "code": {
+            "value": "258/NQ-CP",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "31/08/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "CHÍNH PHỦ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Ban Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ; HĐND, UBND các tỉnh, thành phố trực thuộc TW; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Văn phòng Quốc hội; Tòa án nhân dân tối cao; Viện Kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Các ngân hàng: Chính sách xã hội, Phát triển Việt Nam; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; Cơ quan Trung ương của các tổ chức chính trị - xã hội; Thông tấn xã Việt Nam, Đài Tiếng nói Việt Nam, Đài Truyền hình Việt Nam; Hội đồng Tư vấn cải cách thủ tục hành chính của Thủ tướng Chính phủ; Liên đoàn Thương mại và Công nghiệp Việt Nam; VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục, Công báo.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "TM. CHÍNH PH KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Phạm Thị Thanh Trà",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}

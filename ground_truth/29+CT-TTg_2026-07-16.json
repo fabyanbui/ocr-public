@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "document_format": {
+            "value": "scan",
+            "type": "string"
+        },
+        "has_handwriting": {
+            "value": true,
+            "type": "boolean"
+        },
+        "field": {
+            "value": "CNTT - Chuyển đổi số",
+            "type": "string"
+        },
+        "source_name": {
+            "value": "Cổng TTĐT Chính phủ",
+            "type": "string"
+        },
+        "source_url_detail": {
+            "value": "https://vanban.chinhphu.vn/?pageid=27160&docid=218900",
+            "type": "string"
+        }
+    },
+    "information": {
+        "type": {
+            "value": "CHỈ THỊ",
+            "type": "string"
+        },
+        "title": {
+            "value": "Về đẩy nhanh tiến độ triển khai thực hiện nhiệm vụ khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số năm 2026",
+            "type": "string"
+        },
+        "code": {
+            "value": "29/CT-TTg",
+            "type": "string"
+        },
+        "documentDate": {
+            "value": "16/07/2026",
+            "type": "string"
+        },
+        "officeSender": {
+            "value": "THỦ TƯỚNG CHÍNH PHỦ",
+            "type": "string"
+        },
+        "recipients": {
+            "value": "Bộ Chính trị; Ban Bí thư Trung ương Đảng; Thủ tướng, các Phó Thủ tướng Chính phủ; Các bộ, cơ quan ngang bộ; Tỉnh ủy, Thành ủy, HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; Văn phòng Trung ương và các Ban của Đảng; Văn phòng Tổng Bí thư; Văn phòng Chủ tịch nước; Hội đồng Dân tộc và các Ủy ban của Quốc hội; Văn phòng Quốc hội; Tòa án nhân dân tối cao; Viện kiểm sát nhân dân tối cao; Kiểm toán nhà nước; Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; VPCP: BTCN, các PCN, Trợ lý TTg, các Vụ, Cục.",
+            "type": "string"
+        },
+        "signer_title": {
+            "value": "KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG",
+            "type": "string"
+        },
+        "signer": {
+            "value": "Hồ Quốc Dũng",
+            "type": "string"
+        },
+        "province": {
+            "value": "Hà Nội",
+            "type": "string"
+        },
+        "receiverDate": {
+            "value": null,
+            "type": "string"
+        },
+        "priority_level": {
+            "value": "1_HỎA TỐC",
+            "type": "string"
+        },
+        "security_level": {
+            "value": "0_BÌNH THƯỜNG",
+            "type": "string"
+        },
+        "first_recipients": {
+            "value": null,
+            "type": null
+        }
+    }
+}
